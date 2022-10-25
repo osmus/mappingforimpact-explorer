@@ -36,10 +36,28 @@ def osmQueryProcessor(query, timeFilter=None):
     if not query: raise Exception("Query needed")
     overpass = Overpass()
     result = overpass.query(query)
-    resultElements = result.elements()[0]
+    # resultElements = result.elements()[0]
     print(result)
-    print(resultElements)
-    print(resultElements.tag('name:en'))
+    print(type(result), dir(result))
+    print(result.toJSON())
+
+    print(result.countNodes())
+    print(result.nodes())
+
+    print(result.countRelations())
+    print(result.relations())
+
+    print(result.countElements())
+    print(result.elements())
+
+    print(result.countAreas())
+    print(result.areas())
+
+    print(result.countWays())
+    print(result.ways())
+    # <class 'OSMPythonTools.overpass.OverpassResult'> ['_OverpassResult__count', '_OverpassResult__elementsOfType', '_OverpassResult__get', '_OverpassResult__get2', '_Response__get', '__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_cacheMetadata', '_elements', '_json', '_queryString', 'areas', 'cacheTimestamp', 'cacheVersion', 'copyright', 'countAreas', 'countElements', 'countNodes', 'countRelations', 'countWays', 'elements', 'generator', 'isValid', 'nodes', 'queryString', 'relations', 'remark', 'timestamp_area_base', 'timestamp_osm_base', 'toJSON', 'version', 'ways']
+    # print(resultElements)
+    # print(resultElements.tag('name:en'))
 
 
 
@@ -121,7 +139,14 @@ def osmQueryProcessor(query, timeFilter=None):
 if __name__ == "__main__":
     osmQueryProcessor("""
 
-way["name"="Stephansdom"]; out body;
+(
+  node["brand:wikidata"="Q37158"]["amenity"="cafe"](40.69977176830021,-74.04047012329102,40.790679480243526,-73.9156723022461);
+  way["brand:wikidata"="Q37158"]["amenity"="cafe"](40.69977176830021,-74.04047012329102,40.790679480243526,-73.9156723022461);
+  relation["brand:wikidata"="Q37158"]["amenity"="cafe"](40.69977176830021,-74.04047012329102,40.790679480243526,-73.9156723022461);
+);
+out body;
+>;
+out skel qt;
 
     """)
     pass
