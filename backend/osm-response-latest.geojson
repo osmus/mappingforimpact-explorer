@@ -1,0 +1,5333 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 560636265,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0141339,
+                    40.7032771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 870317225,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.952923,
+                    40.7593049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 883181314,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983903,
+                    40.7491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 883235940,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "350",
+                    "addr:postcode": "10118",
+                    "addr:state": "NY",
+                    "addr:street": "5th Avenue",
+                    "addr:unit": "6",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drink:coffee": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:30-18:00",
+                    "opening_hours:covid19": "open",
+                    "outdoor_seating": "no",
+                    "phone": "+1-212-564-9141",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "toilets:access": "yes",
+                    "toilets:wheelchair": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985687,
+                    40.7481846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 886702490,
+                "tags": {
+                    "addr:housenumber": "665",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:coffee": "yes",
+                    "drink:soy_milk": "yes",
+                    "drink:tea": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; Su 07:00-21:30",
+                    "payment:cash": "yes",
+                    "payment:contactless": "yes",
+                    "payment:credit_cards": "yes",
+                    "payment:debit_cards": "yes",
+                    "phone": "+1-917-534-0799",
+                    "ref": "16853",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "toilets:wheelchair": "yes",
+                    "website": "https://starbucks.com/store/16853/",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.995488,
+                    40.727212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 889472802,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.008983,
+                    40.715522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1292790745,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9791456,
+                    40.7505563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1292819650,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9775605,
+                    40.7518527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1383935070,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9840167,
+                    40.7669811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1383935410,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "4",
+                    "addr:postcode": "10019",
+                    "addr:state": "NY",
+                    "addr:street": "Columbus Circle",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "bar": "no",
+                    "branch": "58th & Eighth",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:dairy_free": "yes",
+                    "diet:gluten_free": "yes",
+                    "diet:vegan": "yes",
+                    "diet:vegetarian": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Sa 06:00-19:00; Su 07:00-18:00",
+                    "opening_hours:covid19": "open",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:debit_cards": "yes",
+                    "payment:discover_card": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1-212-265-0658",
+                    "reservation": "no",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/13904/58th-eighth-4-columbus-circle-new-york-ny-100191100-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9829426,
+                    40.7675105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1383942697,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "240",
+                    "addr:postcode": "10019",
+                    "addr:state": "NY",
+                    "addr:street": "Central Park South",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "bar": "no",
+                    "branch": "59th & Broadway",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:dairy_free": "yes",
+                    "diet:gluten_free": "yes",
+                    "diet:vegan": "yes",
+                    "diet:vegetarian": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
+                    "opening_hours:covid19": "open",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:debit_cards": "yes",
+                    "payment:discover_card": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1-718-635-9564",
+                    "reservation": "no",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1030514/59th-broadway-240-central-park-south-new-york-ny-10019-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9812871,
+                    40.7676336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1383954690,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.979109,
+                    40.7649496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1426250385,
+                "tags": {
+                    "addr:postcode": "10036",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "24/7",
+                    "phone": "2122217515",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/13918/43rd-broadway-1500-broadway-new-york-ny-100364015-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9858991,
+                    40.7566173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1427265082,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9763714,
+                    40.7543596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1427273332,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9752216,
+                    40.7529578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1427285902,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9759313,
+                    40.7520527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1427499765,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "295",
+                    "addr:postcode": "10017",
+                    "addr:state": "NY",
+                    "addr:street": "Madison Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-22:00; Sa-Su 07:00-21:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9797222,
+                    40.7519234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1428185672,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-21:00; Sa,Su 07:00-21:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9823204,
+                    40.7489897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1428427548,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9787699,
+                    40.7538901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1428427554,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9759556,
+                    40.7570782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1428427562,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-18:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9737843,
+                    40.7613683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1584932953,
+                "tags": {
+                    "addr:housenumber": "585",
+                    "addr:postcode": "10016",
+                    "addr:street": "2nd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "source": "survey",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9769314,
+                    40.7436871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1802885415,
+                "tags": {
+                    "addr:housenumber": "280",
+                    "addr:street": "Park Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9750931,
+                    40.7562302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1825739845,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "phone": "+1 212 366 4672",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.002526,
+                    40.739372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1825739854,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-22:00; Sa-Su 06:00-22:00",
+                    "phone": "+1 646 230 7145",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0045688,
+                    40.7416538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1868984359,
+                "tags": {
+                    "addr:housenumber": "518",
+                    "addr:postcode": "10014",
+                    "addr:street": "Hudson Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "female": "yes",
+                    "male": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 06:30-21:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0064644,
+                    40.7337954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1899033653,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9889989,
+                    40.7580159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1900975316,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "entrance": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "operator": "Starbucks",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9810737,
+                    40.7644259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1917136131,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9899978,
+                    40.719348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 1994680562,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "2252",
+                    "addr:postcode": "10024",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo 07:00-22:00; Tu-Su 06:00-23:00",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9788012,
+                    40.7849274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2034011016,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-21:00; Sa-Su 07:00-20:00",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0130472,
+                    40.7043817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2034011022,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "no"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0111401,
+                    40.7087356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2045635529,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-23:00; Sa 06:00-23:00; Su 06:00-22:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984262,
+                    40.7405189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2047269475,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "130",
+                    "addr:postcode": "10038",
+                    "addr:state": "NY",
+                    "addr:street": "Fulton Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Sa 06:00-19:00; Su 06:00-18:30",
+                    "outdoor_seating": "no",
+                    "phone": "+1-212-962-0439",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0079702,
+                    40.7101916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2065455029,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "72",
+                    "addr:postcode": "10002",
+                    "addr:street": "Spring Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "drive_through": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "operator": "Starbucks",
+                    "outdoor_seating": "no",
+                    "phone": "+1-212-219-2961",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "no",
+                    "wheelchair": "limited"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.997904,
+                    40.722517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2077086482,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "55",
+                    "addr:postcode": "10005",
+                    "addr:state": "NY",
+                    "addr:street": "Liberty Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-18:30",
+                    "outdoor_seating": "no",
+                    "phone": "+1 212-227-0372",
+                    "ref": "9218",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/9218/liberty-nassau-55-liberty-street-new-york-ny-100051003-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0093987,
+                    40.7087451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2178743034,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9891169,
+                    40.757236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2183010488,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.011298,
+                    40.7051728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2186614190,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "110",
+                    "addr:postcode": "10005",
+                    "addr:state": "NY",
+                    "addr:street": "Pearl Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0091159,
+                    40.7046071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2279508475,
+                "tags": {
+                    "addr:housenumber": "219",
+                    "addr:postcode": "10003",
+                    "addr:street": "1st Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:30-18:30; Sa,Su 07:00-18:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983183,
+                    40.7308318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2310498477,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "1889",
+                    "addr:postcode": "10023",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "bar": "no",
+                    "branch": "63rd & Broadway",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:dairy_free": "yes",
+                    "diet:gluten_free": "yes",
+                    "diet:vegan": "yes",
+                    "diet:vegetarian": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "opening_hours:covid19": "Mo-Fr 06:00-21:00; Sa-Su 06:30-20:30",
+                    "outdoor_seating": "no",
+                    "phone": "+1-212-245-1362",
+                    "reservation": "no",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/17786/63rd-broadway-1889-broadway-new-york-ny-100237005-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9824717,
+                    40.771384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2357937257,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1631",
+                    "addr:postcode": "10028",
+                    "addr:state": "NY",
+                    "addr:street": "1st Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 06:00-22:00",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9502069,
+                    40.7761432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2357937268,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1491",
+                    "addr:postcode": "10029",
+                    "addr:state": "NY",
+                    "addr:street": "Lexington Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-22:00; Su 06:00-21:30; Fr, Sa 05:30-22:30",
+                    "phone": "+1-212-369-0313",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/19114/96th-lexington-1491-lexington-avenue-new-york-ny-100297307-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9507027,
+                    40.7859465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2358048511,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:30-23:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9997088,
+                    40.7330475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2358048512,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "74",
+                    "addr:postcode": "10014",
+                    "addr:state": "NY",
+                    "addr:street": "Grove Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:30; Fr 05:30-00:30; Sa 06:00-00:30; Su 06:00-23:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0026862,
+                    40.7332121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2377128180,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "124",
+                    "addr:postcode": "10011",
+                    "addr:state": "NY",
+                    "addr:street": "8th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-24:00; Sa,Su 07:00-24:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0012613,
+                    40.7411054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2377128181,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "177",
+                    "addr:postcode": "10011",
+                    "addr:state": "NY",
+                    "addr:street": "8th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "delivery": "yes",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-23:00; Sa-Su 06:00-23:00",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/13467/19th-8th-177-eighth-avenue-new-york-ny-100111602-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0004115,
+                    40.7430281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2377128182,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9988416,
+                    40.7451876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2423037502,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:00-21:00, Su 06:30-21:00, Sa 06:30-21:00, PH 07:00-19:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9678672,
+                    40.761405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2423176814,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "2",
+                    "addr:state": "NY",
+                    "addr:street": "Columbus Avenue",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "bar": "no",
+                    "branch": "59th & Columbus",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:dairy_free": "yes",
+                    "diet:gluten_free": "yes",
+                    "diet:vegan": "yes",
+                    "diet:vegetarian": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-18:00",
+                    "opening_hours:covid19": "open",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:discover_card": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1-212-489-6757",
+                    "reservation": "no",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "no",
+                    "website": "https://www.starbucks.com/store-locator/store/8735/59th-columbus-2-columbus-avenue-new-york-ny-100236924-us",
+                    "wheelchair": "limited"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9848933,
+                    40.7694073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2443892139,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "2045",
+                    "addr:postcode": "10023",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-22:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9826132,
+                    40.7777547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2547110379,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "source": "survey",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0001518,
+                    40.7268512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2550067150,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "10",
+                    "addr:postcode": "10003",
+                    "addr:state": "NY",
+                    "addr:street": "Waverly Place",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 6:00-20:30",
+                    "outdoor_seating": "no",
+                    "smoking": "no",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9942424,
+                    40.7299454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2594630499,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0071236,
+                    40.7047913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2610440250,
+                "tags": {
+                    "addr:housenumber": "750",
+                    "addr:street": "7th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9837222,
+                    40.7608044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2611782760,
+                "tags": {
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:30-19:00; Su 08:00-16:30",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9840554,
+                    40.75555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2611782761,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-22:00; Sa-Su 06:00-21:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9786678,
+                    40.7618861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2620513899,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1488",
+                    "addr:postcode": "10028",
+                    "addr:state": "NY",
+                    "addr:street": "3rd Avenue",
+                    "addr:unit": "A",
+                    "amenity": "cafe",
+                    "branch": "84th & 3rd",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:30-19:30; Sa, Su 06:30-19:00",
+                    "phone": "+1 212-744-7458",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/12330/84th-third-1488-third-avenue-a-new-york-ny-100281967-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9552436,
+                    40.7774839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2620513907,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "120",
+                    "addr:postcode": "10128",
+                    "addr:state": "NY",
+                    "addr:street": "East 87th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9553085,
+                    40.7801398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2621577431,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "1140",
+                    "addr:postcode": "10001",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9887987,
+                    40.7438766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2623014606,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969063,
+                    40.7613514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2623014627,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1128",
+                    "addr:postcode": "10065",
+                    "addr:state": "NY",
+                    "addr:street": "3rd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 04:45-22:30; Sa-Su 05:30-22:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9636686,
+                    40.7659236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2623014636,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1559",
+                    "addr:postcode": "10028",
+                    "addr:state": "NY",
+                    "addr:street": "2nd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-22:00; Fr 05:30-23:00; Sa 06:00-23:00; Su 05:45-22:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9543658,
+                    40.7746444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2629277997,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1380",
+                    "addr:postcode": "10019",
+                    "addr:state": "NY",
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9773838,
+                    40.7636753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2629371850,
+                "tags": {
+                    "addr:housenumber": "400",
+                    "addr:street": "East 90th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "05:30-20:30",
+                    "phone": "+1 212-987-0891",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/8923/90th-first-400-east-90th-street-new-york-ny-101285153-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9474467,
+                    40.7791466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2634398946,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "776",
+                    "addr:postcode": "10001",
+                    "addr:street": "Avenue of the Americas",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "phone": "(212) 481-1856",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9908474,
+                    40.7452192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2678783481,
+                "tags": {
+                    "addr:city": "New York",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9833543,
+                    40.7620837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2688264646,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "684",
+                    "addr:postcode": "10036",
+                    "addr:state": "NY",
+                    "addr:street": "9th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "phone": "+1 212 398 9702",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9926029,
+                    40.7590282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2689474985,
+                "tags": {
+                    "addr:housenumber": "1142",
+                    "addr:street": "Madison Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drink:coffee": "yes",
+                    "drink:tea": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-20:00; Sa, Su 06:00-20:00",
+                    "phone": "+1 212-288-1506",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1015661/85th-madison-1142-madison-ave-new-york-ny-100280414-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9597037,
+                    40.7799038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2712074757,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0331745,
+                    40.7263081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2715512001,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9770481,
+                    40.7503383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2716012047,
+                "tags": {
+                    "addr:housenumber": "45",
+                    "addr:postcode": "10022",
+                    "addr:street": "East 51st Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9741196,
+                    40.7583219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2716012089,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "575",
+                    "addr:postcode": "10017",
+                    "addr:state": "NY",
+                    "addr:street": "5th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "building:part": "yes",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00",
+                    "start_date": "1983",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "no",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9782057,
+                    40.7563907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2721574123,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "770",
+                    "addr:postcode": "10036",
+                    "addr:street": "8th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987191,
+                    40.7604406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2723749985,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1281",
+                    "addr:postcode": "10021",
+                    "addr:state": "NY",
+                    "addr:street": "1st Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Sa 05:00-23:00; Su 05:30-22:00",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9574726,
+                    40.76607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2723782910,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "1445",
+                    "addr:postcode": "10021",
+                    "addr:state": "NY",
+                    "addr:street": "1st Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:00-22:00; Sa 05:30-23:00; Su 05:30-22:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9546801,
+                    40.7699331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2758287019,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "540",
+                    "addr:postcode": "10024",
+                    "addr:state": "NY",
+                    "addr:street": "Columbus Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegan": "yes",
+                    "drink:soy_milk": "yes",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-22:00; Fr 05:30-22:30; Sa 06:00-22:30; Su 06:00-22:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9722023,
+                    40.786806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2797917337,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9829515,
+                    40.7663043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2821326392,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-20:30; Sa 06:30-20:30; Su 07:30-19:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0066898,
+                    40.7116433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2895942926,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0066473,
+                    40.7064399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2897876740,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007295,
+                    40.7182651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 2898706760,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "135",
+                    "addr:postcode": "10038",
+                    "addr:street": "John Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00",
+                    "phone": "+12123440894",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0049867,
+                    40.7071222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3020907167,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9686538,
+                    40.7550508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3143926573,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "1515",
+                    "addr:street": "York Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9499445,
+                    40.7724449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3235708620,
+                "tags": {
+                    "addr:housenumber": "267-275",
+                    "addr:postcode": "10023",
+                    "addr:state": "NY",
+                    "addr:street": "Columbus Avenue",
+                    "amenity": "cafe",
+                    "branch": "73rd & Columbus",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-21:30; Fr 05:00-21:30; Sa 06:00-22:00; Su 06:00-21:30",
+                    "phone": "+1 212-579-7834",
+                    "takeaway": "yes",
+                    "toilets": "no",
+                    "website": "https://www.starbucks.com/store-locator/store/11600/73rd-columbus-267-275-columbus-ave-new-york-ny-100232904-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9781981,
+                    40.7779182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3248774671,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "2138",
+                    "addr:postcode": "10023",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "branch": "75th & Broadway",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9809884,
+                    40.7810253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3264422314,
+                "tags": {
+                    "addr:housenumber": "315",
+                    "addr:postcode": "10001",
+                    "addr:street": "7th Avenue",
+                    "amenity": "cafe",
+                    "branch": "28th & 7th",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drink:coffee": "yes",
+                    "internet_access:wlan": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Sa 06:00-21:00; Su 06:00-20:30",
+                    "phone": "+1 646-336-6462",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/18290/28th-7th-315-seventh-avenue-new-york-ny-100016005-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9933215,
+                    40.7469335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3421054402,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9915669,
+                    40.7300535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3451116497,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9909368,
+                    40.7513324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3452904870,
+                "tags": {
+                    "addr:city": "Astoria",
+                    "addr:housenumber": "37-11",
+                    "addr:street": "35th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9234715,
+                    40.7559373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3577542666,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9796851,
+                    40.7531638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3676902927,
+                "tags": {
+                    "addr:housenumber": "145",
+                    "addr:postcode": "10003",
+                    "addr:street": "3rd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:30-18:30; Su 07:00-18:00",
+                    "phone": "(212) 677-7248",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9865529,
+                    40.7337952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3733142431,
+                "tags": {
+                    "addr:housenumber": "35",
+                    "addr:street": "Track",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "level": "-1",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9772838,
+                    40.7530185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3792073193,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9568688,
+                    40.7711856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3809980649,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0070787,
+                    40.7829394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3869752135,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours:signed": "no",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9896034,
+                    40.7370022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3938479922,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.008181,
+                    40.712179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3958232658,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "750",
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drink:coffee": "yes",
+                    "internet_access": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th, Su 06:00-21:00; Fr 06:00-21:30; Sa 05:30-22:00",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "toilets:access": "public"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9920821,
+                    40.7435815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 3960147947,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.972877,
+                    40.7498951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4402180605,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9823708,
+                    40.7636783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4441702689,
+                "tags": {
+                    "addr:housenumber": "875",
+                    "addr:postcode": "10001",
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-22:00; Fr 05:30-22:30; Sa 06:00-21:30; Su 06:30-21:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9892846,
+                    40.7480793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4494829289,
+                "tags": {
+                    "addr:housenumber": "325",
+                    "addr:postcode": "10019",
+                    "addr:street": "West 49th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9874605,
+                    40.7622096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4568929154,
+                "tags": {
+                    "addr:housenumber": "241",
+                    "addr:postcode": "10013",
+                    "addr:street": "Canal Street",
+                    "amenity": "cafe",
+                    "branch": "Canal & Centre",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 06:00-20:00; Fr 06:00-21:30; Sa 05:30-21:00; Su 06:00-20:30",
+                    "phone": "+1 212-219-2725",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/11834/canal-and-centre-241-canal-street-new-york-ny-100134118-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.999969,
+                    40.7182761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4568929157,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0025174,
+                    40.7189006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4755831441,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:country": "US",
+                    "addr:housenumber": "471",
+                    "addr:postcode": "10013",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "addr:suburb": "Manhattan",
+                    "amenity": "cafe",
+                    "branch": "Broadway & Grand",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:30-21:30; Sa,Su 07:00-21:30",
+                    "operator": "Starbucks",
+                    "phone": "212-219-8787",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/8907/broadway-grand-471-broadway-new-york-ny-100132664-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0005133,
+                    40.7212663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4825490321,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "name:en": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0332033,
+                    40.7160533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4850230829,
+                "tags": {
+                    "addr:postcode": "10005",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:00-18:00",
+                    "phone": "+13474614068",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.008845,
+                    40.7061594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4922311233,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9897998,
+                    40.7351434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4938355321,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "name:en": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9184132,
+                    40.7700007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4966951439,
+                "tags": {
+                    "addr:city": "Astoria",
+                    "addr:housenumber": "31-44",
+                    "addr:postcode": "11103",
+                    "addr:state": "NY",
+                    "addr:street": "Steinway Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.918128,
+                    40.7602638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 4995849481,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "level": "2",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9739908,
+                    40.7624366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5090743953,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9559843,
+                    40.7786181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5092488424,
+                "tags": {
+                    "addr:housenumber": "46-09",
+                    "addr:street": "Queens Boulevard",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "name:en": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9183013,
+                    40.7434084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5145299521,
+                "tags": {
+                    "addr:housenumber": "200",
+                    "addr:postcode": "10016",
+                    "addr:street": "East 28th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-21:30; Fr 05:30-22:00; Sa 06:00-22:00; Su 06:00-21:30",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9807467,
+                    40.7417897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5351832787,
+                "tags": {
+                    "addr:city": "Hoboken",
+                    "addr:housenumber": "1205",
+                    "addr:postcode": "07030",
+                    "addr:state": "NJ",
+                    "addr:street": "Hudson Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "internet_access:fee": "no",
+                    "internet_access:ssid": "Google Starbucks",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:00-23:00; Fr 05:00-23:30; Sa 06:00-23:30; Su 06:00-23:00",
+                    "outdoor_seating": "yes",
+                    "smoking": "no",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.025413,
+                    40.7510948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5408681221,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9908577,
+                    40.7026645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5415649562,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0049417,
+                    40.719848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5599264049,
+                "tags": {
+                    "addr:housenumber": "245",
+                    "addr:street": "East 93rd Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:00-21:00; Sa, Su 05:30-21:30",
+                    "phone": "+1-646-455-8766",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1015899/93rd-second-245-east-93rd-st-new-york-ny-10128-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9484523,
+                    40.7827156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5603563258,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "125",
+                    "addr:postcode": "10009",
+                    "addr:state": "NY",
+                    "addr:street": "Saint Mark's Place",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 06:00-20:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9831737,
+                    40.7268161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5625728960,
+                "tags": {
+                    "addr:housenumber": "1542",
+                    "addr:street": "3rd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drink:coffee": "yes",
+                    "email": "s20679@retail.starbucks.com",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Tu, Th, Fr 05:30-22:30; Mo, We, Sa, Su 05:30-21:30",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:discover_card": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:unionpay": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1 212-369-2949",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "toilets:access": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1006781/87th-third-1542-third-avenue-new-york-ny-10028-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9537875,
+                    40.7794784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5754828788,
+                "tags": {
+                    "addr:housenumber": "871",
+                    "addr:street": "8th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "PH,Mo-Su 06:00-21:00",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9853222,
+                    40.7637254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5955392985,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.012773,
+                    40.7027759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5978558001,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "no",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0074301,
+                    40.7083708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5978837386,
+                "tags": {
+                    "addr:housenumber": "66",
+                    "addr:postcode": "11222",
+                    "addr:street": "Nassau Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 06:00-20:00",
+                    "phone": "+1-718-383-3750",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1021871/nassau-ave-lorimer-st-66-nassau-ave-brooklyn-ny-11222-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9514323,
+                    40.7234561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5985763486,
+                "tags": {
+                    "addr:housenumber": "1185",
+                    "addr:postcode": "10036",
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-21:00; Sa-Su 07:00-21:00",
+                    "operator": "Starbucks",
+                    "phone": "2127307645",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/6945/nhl-store-47th-sixth-1185-avenue-of-the-americas-new-york-ny-100362601-"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9824848,
+                    40.758148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 5985838985,
+                "tags": {
+                    "addr:postcode": "10036",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:30-00:00; Fr-Sa 05:30-02:00; Su 05:30-01:00",
+                    "phone": "2125417515",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1005509/47th-broadway-1585-broadway-new-york-ny-10036-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9852254,
+                    40.7596521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6068979466,
+                "tags": {
+                    "addr:housenumber": "1102",
+                    "addr:postcode": "10065",
+                    "addr:street": "1st Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-21:30; Sa 06:00-22:00; Su 06:30-21:30",
+                    "phone": "+1 212-618-9118",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "toilets:access": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/16178/60th-first-1102-1st-ave-new-york-ny-100658702-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9611323,
+                    40.7603546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6127095703,
+                "tags": {
+                    "addr:city": "Hoboken",
+                    "addr:housenumber": "51",
+                    "addr:postcode": "07030",
+                    "addr:state": "NJ",
+                    "addr:street": "Newark Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "level": "1",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "outdoor_seating": "no",
+                    "takeaway": "yes",
+                    "wheelchair": "no"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0301652,
+                    40.7366716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6127380526,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0301442,
+                    40.7406046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6270649485,
+                "tags": {
+                    "addr:housenumber": "1378",
+                    "addr:street": "Madison Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "05:00-21:30",
+                    "phone": "+1 212-534-7225",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/12003/96th-madison-1378-madison-avenue-new-york-ny-101280712-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9544023,
+                    40.7871321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6376760969,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:00-20:30; Sa-Su 06:00-20:00",
+                    "phone": "+1-212-725-9469",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/14526/34th-park-3-park-avenue-new-york-ny-100165902-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98086,
+                    40.7466025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6403172421,
+                "tags": {
+                    "addr:housenumber": "1095",
+                    "addr:street": "Lexington Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "toilets": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9598061,
+                    40.7734593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6507019906,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "462",
+                    "addr:postcode": "10018",
+                    "addr:state": "NY",
+                    "addr:street": "7th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9902569,
+                    40.7518367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6566684054,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "1040",
+                    "addr:state": "NY",
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "outdoor_seating": "no",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9851227,
+                    40.7531459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6575702085,
+                "tags": {
+                    "addr:housenumber": "61",
+                    "addr:street": "9th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks Reserve",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks Reserve",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0051408,
+                    40.7416368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6612404178,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-21:30, Sa-Su 06:00-22:00",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9802192,
+                    40.7555697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6615272822,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "yes",
+                    "wheelchair": "limited"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981136,
+                    40.7570705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6630517160,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "345",
+                    "addr:postcode": "10014",
+                    "addr:state": "NY",
+                    "addr:street": "Hudson Street",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 05:00-18:30; Fr 05:00-18:00",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:contactless": "yes",
+                    "payment:credit_cards": "yes",
+                    "payment:debit_cards": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1-646-486-0514",
+                    "smoking": "no",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0074601,
+                    40.7276195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6636462195,
+                "tags": {
+                    "addr:housenumber": "111",
+                    "addr:postcode": "10013",
+                    "addr:street": "Worth Street",
+                    "amenity": "cafe",
+                    "branch": "Lafayette & Worth",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 06:30-18:00; Fr 06:30-18:30; Sa 07:00-18:30; Su 07:30-18:30",
+                    "phone": "+1 212-964-8846",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/15295/lafayette-worth-111-worth-street-new-york-ny-100134008-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.003128,
+                    40.715754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6680695923,
+                "tags": {
+                    "addr:housenumber": "330",
+                    "addr:postcode": "10001",
+                    "addr:street": "West 34th Street",
+                    "amenity": "cafe",
+                    "branch": "34th St. btwn 8th & 9th Ave",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-19:30; Sa 07:00-20:30; Su 07:00-20:00",
+                    "phone": "+1 917-576-1959",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1025251/34th-st-btwn8th-9th-ave-330-west-34th-st-new-york-ny100012406-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9950505,
+                    40.7526738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6744695372,
+                "tags": {
+                    "addr:housenumber": "25-14",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9401895,
+                    40.7502199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6752564944,
+                "tags": {
+                    "addr:housenumber": "684",
+                    "addr:postcode": "10010",
+                    "addr:street": "6th Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9933052,
+                    40.7418737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6764076981,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9418041,
+                    40.747162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6789471481,
+                "tags": {
+                    "addr:housenumber": "822",
+                    "addr:postcode": "10065",
+                    "addr:street": "Lexington Avenue",
+                    "amenity": "cafe",
+                    "branch": "63rd & Lexington",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "delivery": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Sa 05:30-21:00; Su 06:00-20:00",
+                    "phone": "+1 212-572-0984",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/116566/63rd-lexington-822-ave-new-york-ny-100657304-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9665681,
+                    40.7646846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6852143017,
+                "tags": {
+                    "addr:housenumber": "605",
+                    "addr:postcode": "10016",
+                    "addr:street": "3rd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9751891,
+                    40.7491928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6952884368,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9411085,
+                    40.7000569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 6955034549,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "14",
+                    "addr:postcode": "10010",
+                    "addr:state": "NY",
+                    "addr:street": "West 23rd Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 06:00-21:00; Fr 06:00-20:30; Sa 06:30-20:00; Su 06:30-19:30",
+                    "phone": "+1-212-367-2050",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/6756/23rd-btwn-5th-6th-14-w-23rd-st-new-york-ny-100105203-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9903239,
+                    40.7416427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 7084620591,
+                "tags": {
+                    "addr:housenumber": "286",
+                    "addr:postcode": "10009",
+                    "addr:street": "1st Avenue",
+                    "addr:unit": "A",
+                    "amenity": "cafe",
+                    "branch": "17th & 1st",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:vegetarian": "yes",
+                    "indoor_seating": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 06:30-18:30; Sa,Su 07:00-18:30",
+                    "outdoor_seating": "no",
+                    "phone": "+1 212-353-1214",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/15099/17th-1st-286-first-avenue-new-york-ny-100091850-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9809522,
+                    40.7330316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 7093921924,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "28",
+                    "addr:postcode": "10036",
+                    "addr:state": "NY",
+                    "addr:street": "West 48th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "toilets:wheelchair": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9796085,
+                    40.757792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 7093921956,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9789097,
+                    40.7588628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 7475192460,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "475",
+                    "addr:postcode": "10019",
+                    "addr:state": "NY",
+                    "addr:street": "West 57th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 07:00-18:00",
+                    "outdoor_seating": "yes",
+                    "phone": "(212) 247-5489",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9882442,
+                    40.7691681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 7591060173,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "21",
+                    "addr:postcode": "10023",
+                    "addr:state": "NY",
+                    "addr:street": "West End Avenue",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drive_through": "no",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "outdoor_seating": "no",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:contactless": "yes",
+                    "payment:discover_card": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1-929-243-0630",
+                    "reservation": "no",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "toilets": "customers",
+                    "website": "https://www.starbucks.com/store-locator/store/1019664/61st-west-end-ave-21-west-end-ave-new-york-ny-100237839-us",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9898648,
+                    40.7728466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 7678152117,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "304",
+                    "addr:postcode": "10010",
+                    "addr:state": "NY",
+                    "addr:street": "Park Avenue South",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "phone": "+1-212-475-9025",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/17645/23rd-park-304-park-avenue-south-new-york-ny-100104301-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9868031,
+                    40.740175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8105873283,
+                "tags": {
+                    "addr:city": "Brooklyn",
+                    "addr:housenumber": "154",
+                    "addr:postcode": "11211",
+                    "addr:state": "NY",
+                    "addr:street": "North 7th Street",
+                    "amenity": "cafe",
+                    "brand": "Starbucks Reserve",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "internet_access": "yes",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks Reserve",
+                    "opening_hours": "Mo-Su 07:00-19:00",
+                    "phone": "+17183840152",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9581705,
+                    40.7179833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8238256286,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:00-19:30; Sa,Su 05:30-19:00",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9784178,
+                    40.7364893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8289799740,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "payment:credit_cards": "yes",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9949349,
+                    40.7515183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8455829693,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9822953,
+                    40.7452485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8551295312,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9700026,
+                    40.7594589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8551468889,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9726202,
+                    40.7567499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8551468902,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9752551,
+                    40.7522546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8622598771,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "157",
+                    "addr:postcode": "10013",
+                    "addr:state": "NY",
+                    "addr:street": "Lafayette",
+                    "amenity": "cafe",
+                    "branch": "157 Lafayette",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "drink:coffee": "yes",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Su 07:00-18:00",
+                    "phone": "+1 646-838-4269",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/1021634/157-lafayette-157-lafayette-street-new-york-ny-10013-us"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9991307,
+                    40.7197454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8644307517,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.009094,
+                    40.7137611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8669140491,
+                "tags": {
+                    "addr:housenumber": "494",
+                    "addr:postcode": "10001",
+                    "addr:street": "8th Avenue",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "bar": "no",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "capacity": "0",
+                    "check_date": "2022-09-05",
+                    "cuisine": "coffee_shop",
+                    "highchair": "no",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-19:00",
+                    "outdoor_seating": "no",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:credit_cards": "yes",
+                    "payment:debit_cards": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:visa": "yes",
+                    "phone": "+1 212-947-3860",
+                    "reservation": "no",
+                    "smoking": "no",
+                    "takeaway": "yes",
+                    "website": "https://www.starbucks.com/store-locator/store/16813/35th-8th-494-eighth-ave-new-york-ny-100012519-us",
+                    "wheelchair": "limited"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.992874,
+                    40.7526793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8832734925,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0141592,
+                    40.7092166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8872982377,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9871718,
+                    40.7543258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8883769317,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "291",
+                    "addr:postcode": "10007",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060163,
+                    40.7148521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8890918163,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "450",
+                    "addr:postcode": "10001",
+                    "addr:state": "NY",
+                    "addr:street": "West 33rd Street",
+                    "air_conditioning": "yes",
+                    "amenity": "cafe",
+                    "bar": "no",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "diet:gluten_free": "yes",
+                    "diet:vegan": "yes",
+                    "diet:vegetarian": "yes",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-18:00",
+                    "outdoor_seating": "no",
+                    "payment:american_express": "yes",
+                    "payment:cash": "yes",
+                    "payment:debit_cards": "yes",
+                    "payment:mastercard": "yes",
+                    "payment:telephone_cards": "no",
+                    "payment:visa": "yes",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9992946,
+                    40.7535964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8942090280,
+                "tags": {
+                    "addr:city": "Astoria",
+                    "addr:housenumber": "31-01",
+                    "addr:postcode": "11106",
+                    "addr:state": "NY",
+                    "addr:street": "Broadway",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9249421,
+                    40.7619161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 8990769665,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9490982,
+                    40.7423244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 9173283016,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:postcode": "10028",
+                    "addr:state": "NY",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9546884,
+                    40.7742116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "node",
+                "id": 9806919511,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "cuisine": "coffee_shop",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Fr 05:30-20:00; Sa-Su 06:00-19:30",
+                    "takeaway": "yes",
+                    "wheelchair": "yes"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9738384,
+                    40.7436657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 266879142,
+                "tags": {
+                    "addr:city": "New York",
+                    "addr:housenumber": "1128",
+                    "addr:postcode": "10065",
+                    "addr:state": "NY",
+                    "addr:street": "3rd Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "building": "yes",
+                    "cuisine": "coffee_shop",
+                    "height": "63.7",
+                    "name": "Starbucks",
+                    "nycdoitt:bin": "1042464",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                },
+                "nodes": [
+                    2723809932,
+                    2723809944,
+                    2723809916,
+                    2723809737,
+                    2723809774,
+                    2723809786,
+                    2723809794,
+                    2723809838,
+                    2723809835,
+                    2723809848,
+                    2723809851,
+                    2723809883,
+                    2723809879,
+                    2723809893,
+                    2723809899,
+                    2723809949,
+                    2723809932
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.9633441,
+                            40.7666197
+                        ],
+                        [
+                            -73.9633339,
+                            40.7666336
+                        ],
+                        [
+                            -73.963145,
+                            40.7665536
+                        ],
+                        [
+                            -73.9634958,
+                            40.7660748
+                        ],
+                        [
+                            -73.9636856,
+                            40.7661552
+                        ],
+                        [
+                            -73.9636761,
+                            40.7661682
+                        ],
+                        [
+                            -73.9637195,
+                            40.7661866
+                        ],
+                        [
+                            -73.9636362,
+                            40.7663003
+                        ],
+                        [
+                            -73.9636127,
+                            40.7662903
+                        ],
+                        [
+                            -73.9635759,
+                            40.7663406
+                        ],
+                        [
+                            -73.9635994,
+                            40.7663506
+                        ],
+                        [
+                            -73.9635094,
+                            40.7664734
+                        ],
+                        [
+                            -73.9634859,
+                            40.7664634
+                        ],
+                        [
+                            -73.9634487,
+                            40.7665142
+                        ],
+                        [
+                            -73.9634722,
+                            40.7665242
+                        ],
+                        [
+                            -73.9633884,
+                            40.7666385
+                        ],
+                        [
+                            -73.9633441,
+                            40.7666197
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 280137527,
+                "tags": {
+                    "addr:city": "Brooklyn",
+                    "addr:country": "US",
+                    "addr:housenumber": "910",
+                    "addr:postcode": "11222",
+                    "addr:state": "NY",
+                    "addr:street": "Manhattan Avenue",
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "building": "yes",
+                    "cuisine": "coffee_shop",
+                    "height": "8.4",
+                    "internet_access": "wlan",
+                    "internet_access:fee": "no",
+                    "name": "Starbucks",
+                    "nycdoitt:bin": "3400032",
+                    "official_name": "Starbucks Coffee",
+                    "opening_hours": "Mo-Th 06:00-22:30; Fr 06:00-23:00; Sa 06:30-23:00; Su 07:00-22:30",
+                    "takeaway": "yes"
+                },
+                "nodes": [
+                    2842999627,
+                    2842999805,
+                    2842999812,
+                    2842999637,
+                    2842999628,
+                    2842999627
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.9541671,
+                            40.7304967
+                        ],
+                        [
+                            -73.9541775,
+                            40.7305633
+                        ],
+                        [
+                            -73.9541209,
+                            40.7305683
+                        ],
+                        [
+                            -73.9540647,
+                            40.7305059
+                        ],
+                        [
+                            -73.9541546,
+                            40.7304978
+                        ],
+                        [
+                            -73.9541671,
+                            40.7304967
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 632686089,
+                "tags": {
+                    "amenity": "cafe",
+                    "brand": "Starbucks",
+                    "brand:wikidata": "Q37158",
+                    "brand:wikipedia": "en:Starbucks",
+                    "cuisine": "coffee_shop",
+                    "indoor": "room",
+                    "level": "0",
+                    "name": "Starbucks",
+                    "official_name": "Starbucks Coffee",
+                    "takeaway": "yes"
+                },
+                "nodes": [
+                    5976795224,
+                    5973598181,
+                    5973598390,
+                    5973598182,
+                    5973598180,
+                    5976795223,
+                    5976795224
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.0377665,
+                            40.7266735
+                        ],
+                        [
+                            -74.0379631,
+                            40.7266961
+                        ],
+                        [
+                            -74.0379708,
+                            40.7266889
+                        ],
+                        [
+                            -74.0380193,
+                            40.726686
+                        ],
+                        [
+                            -74.0380278,
+                            40.7266319
+                        ],
+                        [
+                            -74.0377761,
+                            40.7266064
+                        ],
+                        [
+                            -74.0377665,
+                            40.7266735
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
