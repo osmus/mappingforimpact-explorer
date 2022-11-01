@@ -1,0 +1,3862 @@
+{
+    "summary": {
+        "total_element_count": 201,
+        "total_way_count": 3,
+        "total_node_count": 198,
+        "total_relation_count": 0,
+        "total_user_modified_count": 174,
+        "user_modified_count": {
+            "Timothy Smith": 40,
+            "Bkissin": 20,
+            "MxxCon": 8,
+            "LucasLarson": 21,
+            "brandonbds": 9,
+            "jmapb": 3,
+            "Innoventions": 6,
+            "HeyItsAdam": 1,
+            "wheelmap_visitor": 19,
+            "ivanbranco": 1,
+            "Karthoo": 3,
+            "promiseofbirth": 5,
+            "ohiomapper": 3,
+            "brendan77": 5,
+            "Mashin": 1,
+            "daniel_solow": 12,
+            "barklund": 3,
+            "Valustaides": 1,
+            "CarlosMG": 1,
+            "NameThatFollows": 1,
+            "Diego Sanguinetti": 1,
+            "MapSpot": 1,
+            "archpdx": 2,
+            "John Du Hart": 1,
+            "user_385682": 1,
+            "ramzmge": 1,
+            "fixedbusiness": 2,
+            "abstractmach": 1,
+            "Bernd_BDP": 1
+        }
+    },
+    "merged_tags": {
+        "amenity": [
+            "cafe"
+        ],
+        "brand": [
+            "Starbucks",
+            "Starbucks Reserve"
+        ],
+        "brand:wikidata": [
+            "Q37158"
+        ],
+        "brand:wikipedia": [
+            "en:Starbucks"
+        ],
+        "cuisine": [
+            "coffee_shop"
+        ],
+        "name": [
+            "Starbucks",
+            "Starbucks Reserve"
+        ],
+        "official_name": [
+            "Starbucks Coffee"
+        ],
+        "takeaway": [
+            "yes"
+        ],
+        "diet:vegan": [
+            "yes"
+        ],
+        "drink:soy_milk": [
+            "yes"
+        ],
+        "opening_hours": [
+            "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00",
+            "Mo-Fr 06:30-18:00",
+            "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; Su 07:00-21:30",
+            "Mo-Sa 06:00-19:00; Su 07:00-18:00",
+            "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00",
+            "24/7",
+            "Mo-Fr 05:30-22:00; Sa-Su 07:00-21:00",
+            "Mo-Fr 05:30-21:00; Sa,Su 07:00-21:00",
+            "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-18:00",
+            "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+            "Mo-Fr 05:30-22:00; Sa-Su 06:00-22:00",
+            "Mo-Su 06:30-21:30",
+            "Mo 07:00-22:00; Tu-Su 06:00-23:00",
+            "Mo-Fr 05:30-21:00; Sa-Su 07:00-20:00",
+            "Mo-Fr 05:30-23:00; Sa 06:00-23:00; Su 06:00-22:00",
+            "Mo-Sa 06:00-19:00; Su 06:00-18:30",
+            "Mo-Fr 06:00-18:30",
+            "Mo-Fr 06:30-18:30; Sa,Su 07:00-18:30",
+            "Mo-Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00",
+            "Mo-Su 06:00-22:00",
+            "Mo-Th 05:30-22:00; Su 06:00-21:30; Fr, Sa 05:30-22:30",
+            "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:30-23:00",
+            "Mo-Th 05:30-23:30; Fr 05:30-00:30; Sa 06:00-00:30; Su 06:00-23:30",
+            "Mo-Fr 05:30-24:00; Sa,Su 07:00-24:00",
+            "Mo-Fr 05:30-23:00; Sa-Su 06:00-23:00",
+            "Mo-Fr 05:00-21:00, Su 06:30-21:00, Sa 06:30-21:00, PH 07:00-19:00",
+            "Mo-Fr 06:00-20:00; Sa-Su 07:00-18:00",
+            "Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-22:30",
+            "Mo-Su 6:00-20:30",
+            "Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00",
+            "Mo-Fr 06:00-21:00; Sa 07:30-19:00; Su 08:00-16:30",
+            "Mo-Th 05:30-21:00; Fr 05:30-22:00; Sa-Su 06:00-21:00",
+            "Mo-Fr 06:30-19:30; Sa, Su 06:30-19:00",
+            "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00",
+            "Mo-Fr 04:45-22:30; Sa-Su 05:30-22:00",
+            "Mo-Th 05:30-22:00; Fr 05:30-23:00; Sa 06:00-23:00; Su 05:45-22:00",
+            "05:30-20:30",
+            "Mo-Fr 05:30-20:00; Sa, Su 06:00-20:00",
+            "Mo-Sa 05:00-23:00; Su 05:30-22:00",
+            "Mo-Fr 05:00-22:00; Sa 05:30-23:00; Su 05:30-22:00",
+            "Mo-Th 05:30-22:00; Fr 05:30-22:30; Sa 06:00-22:30; Su 06:00-22:00",
+            "Mo-Fr 05:30-20:30; Sa 06:30-20:30; Su 07:30-19:30",
+            "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00",
+            "Mo-Th 05:30-21:30; Fr 05:00-21:30; Sa 06:00-22:00; Su 06:00-21:30",
+            "Mo-Sa 06:00-21:00; Su 06:00-20:30",
+            "Mo-Fr 06:00-18:30; Sa 06:30-18:30; Su 07:00-18:00",
+            "Mo-Th, Su 06:00-21:00; Fr 06:00-21:30; Sa 05:30-22:00",
+            "Mo-Th 05:30-22:00; Fr 05:30-22:30; Sa 06:00-21:30; Su 06:30-21:30",
+            "Mo-Th 06:00-20:00; Fr 06:00-21:30; Sa 05:30-21:00; Su 06:00-20:30",
+            "Mo-Fr 06:30-21:30; Sa,Su 07:00-21:30",
+            "Mo-Fr 07:00-20:00; Sa-Su 07:00-18:00",
+            "Mo-Th 05:30-21:30; Fr 05:30-22:00; Sa 06:00-22:00; Su 06:00-21:30",
+            "Mo-Th 05:00-23:00; Fr 05:00-23:30; Sa 06:00-23:30; Su 06:00-23:00",
+            "Mo-Fr 05:00-21:00; Sa, Su 05:30-21:30",
+            "Mo-Su 06:00-20:00",
+            "Tu, Th, Fr 05:30-22:30; Mo, We, Sa, Su 05:30-21:30",
+            "PH,Mo-Su 06:00-21:00",
+            "Mo-Fr 05:30-21:00; Sa-Su 07:00-21:00",
+            "Mo-Th 05:30-00:00; Fr-Sa 05:30-02:00; Su 05:30-01:00",
+            "Mo-Fr 05:30-21:30; Sa 06:00-22:00; Su 06:30-21:30",
+            "05:00-21:30",
+            "Mo-Fr 06:00-20:30; Sa-Su 06:00-20:00",
+            "Mo-Fr 05:30-21:30, Sa-Su 06:00-22:00",
+            "Mo-Th 05:00-18:30; Fr 05:00-18:00",
+            "Mo-Th 06:30-18:00; Fr 06:30-18:30; Sa 07:00-18:30; Su 07:30-18:30",
+            "Mo-Fr 05:30-19:30; Sa 07:00-20:30; Su 07:00-20:00",
+            "Mo-Sa 05:30-21:00; Su 06:00-20:00",
+            "Mo-Th 06:00-21:00; Fr 06:00-20:30; Sa 06:30-20:00; Su 06:30-19:30",
+            "Mo-Su 07:00-18:00",
+            "Mo-Su 07:00-19:00",
+            "Mo-Fr 05:00-19:30; Sa,Su 05:30-19:00",
+            "Mo-Fr 05:30-19:00",
+            "Mo-Fr 05:30-18:00",
+            "Mo-Fr 05:30-20:00; Sa-Su 06:00-19:30",
+            "Mo-Th 06:00-22:30; Fr 06:00-23:00; Sa 06:30-23:00; Su 07:00-22:30"
+        ],
+        "wheelchair": [
+            "yes",
+            "no",
+            "limited"
+        ],
+        "addr:city": [
+            "New York",
+            "Astoria",
+            "Hoboken",
+            "Brooklyn"
+        ],
+        "addr:country": [
+            "US"
+        ],
+        "addr:housenumber": [
+            "350",
+            "665",
+            "4",
+            "240",
+            "295",
+            "585",
+            "280",
+            "518",
+            "2252",
+            "130",
+            "72",
+            "55",
+            "110",
+            "219",
+            "1889",
+            "1631",
+            "1491",
+            "74",
+            "124",
+            "177",
+            "2",
+            "2045",
+            "10",
+            "750",
+            "1488",
+            "120",
+            "1140",
+            "1128",
+            "1559",
+            "1380",
+            "400",
+            "776",
+            "684",
+            "1142",
+            "45",
+            "575",
+            "770",
+            "1281",
+            "1445",
+            "540",
+            "135",
+            "1515",
+            "267-275",
+            "2138",
+            "315",
+            "37-11",
+            "145",
+            "35",
+            "875",
+            "325",
+            "241",
+            "471",
+            "31-44",
+            "46-09",
+            "200",
+            "1205",
+            "245",
+            "125",
+            "1542",
+            "871",
+            "66",
+            "1185",
+            "1102",
+            "51",
+            "1378",
+            "1095",
+            "462",
+            "1040",
+            "61",
+            "345",
+            "111",
+            "330",
+            "25-14",
+            "822",
+            "605",
+            "14",
+            "286",
+            "28",
+            "475",
+            "21",
+            "304",
+            "154",
+            "157",
+            "494",
+            "291",
+            "450",
+            "31-01",
+            "910"
+        ],
+        "addr:postcode": [
+            "10118",
+            "10019",
+            "10036",
+            "10017",
+            "10016",
+            "10014",
+            "10024",
+            "10038",
+            "10002",
+            "10005",
+            "10003",
+            "10023",
+            "10028",
+            "10029",
+            "10011",
+            "10128",
+            "10001",
+            "10065",
+            "10022",
+            "10021",
+            "10013",
+            "11103",
+            "07030",
+            "10009",
+            "11222",
+            "10018",
+            "10010",
+            "11211",
+            "10007",
+            "11106"
+        ],
+        "addr:state": [
+            "NY",
+            "NJ"
+        ],
+        "addr:street": [
+            "5th Avenue",
+            "Broadway",
+            "Columbus Circle",
+            "Central Park South",
+            "Madison Avenue",
+            "2nd Avenue",
+            "Park Avenue",
+            "Hudson Street",
+            "Fulton Street",
+            "Spring Street",
+            "Liberty Street",
+            "Pearl Street",
+            "1st Avenue",
+            "Lexington Avenue",
+            "Grove Street",
+            "8th Avenue",
+            "Columbus Avenue",
+            "Waverly Place",
+            "7th Avenue",
+            "6th Avenue",
+            "3rd Avenue",
+            "East 87th Street",
+            "East 90th Street",
+            "Avenue of the Americas",
+            "9th Avenue",
+            "East 51st Street",
+            "John Street",
+            "York Avenue",
+            "35th Avenue",
+            "Track",
+            "West 49th Street",
+            "Canal Street",
+            "Steinway Street",
+            "Queens Boulevard",
+            "East 28th Street",
+            "East 93rd Street",
+            "Saint Mark's Place",
+            "Nassau Avenue",
+            "Newark Street",
+            "Worth Street",
+            "West 34th Street",
+            "West 23rd Street",
+            "West 48th Street",
+            "West 57th Street",
+            "West End Avenue",
+            "Park Avenue South",
+            "North 7th Street",
+            "Lafayette",
+            "West 33rd Street",
+            "Manhattan Avenue"
+        ],
+        "addr:unit": [
+            "6",
+            "A"
+        ],
+        "drink:coffee": [
+            "yes"
+        ],
+        "internet_access": [
+            "wlan",
+            "yes"
+        ],
+        "internet_access:fee": [
+            "no",
+            "yes"
+        ],
+        "level": [
+            "0",
+            "-1",
+            "2",
+            "1"
+        ],
+        "opening_hours:covid19": [
+            "open",
+            "Mo-Fr 06:00-21:00; Sa-Su 06:30-20:30"
+        ],
+        "outdoor_seating": [
+            "no",
+            "yes"
+        ],
+        "phone": [
+            "+1-212-564-9141",
+            "+1-917-534-0799",
+            "+1-212-265-0658",
+            "+1-718-635-9564",
+            "2122217515",
+            "+1 212 366 4672",
+            "+1 646 230 7145",
+            "+1-212-962-0439",
+            "+1-212-219-2961",
+            "+1 212-227-0372",
+            "+1-212-245-1362",
+            "+1-212-369-0313",
+            "+1-212-489-6757",
+            "+1 212-744-7458",
+            "+1 212-987-0891",
+            "(212) 481-1856",
+            "+1 212 398 9702",
+            "+1 212-288-1506",
+            "+12123440894",
+            "+1 212-579-7834",
+            "+1 646-336-6462",
+            "(212) 677-7248",
+            "+1 212-219-2725",
+            "212-219-8787",
+            "+13474614068",
+            "+1-646-455-8766",
+            "+1 212-369-2949",
+            "+1-718-383-3750",
+            "2127307645",
+            "2125417515",
+            "+1 212-618-9118",
+            "+1 212-534-7225",
+            "+1-212-725-9469",
+            "+1-646-486-0514",
+            "+1 212-964-8846",
+            "+1 917-576-1959",
+            "+1 212-572-0984",
+            "+1-212-367-2050",
+            "+1 212-353-1214",
+            "(212) 247-5489",
+            "+1-929-243-0630",
+            "+1-212-475-9025",
+            "+17183840152",
+            "+1 646-838-4269",
+            "+1 212-947-3860"
+        ],
+        "toilets": [
+            "yes",
+            "no",
+            "customers"
+        ],
+        "toilets:access": [
+            "yes",
+            "public"
+        ],
+        "toilets:wheelchair": [
+            "yes",
+            "no"
+        ],
+        "website": [
+            "https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us",
+            "https://starbucks.com/store/16853/",
+            "https://www.starbucks.com/store-locator/store/13904/58th-eighth-4-columbus-circle-new-york-ny-100191100-us",
+            "https://www.starbucks.com/store-locator/store/1030514/59th-broadway-240-central-park-south-new-york-ny-10019-us",
+            "https://www.starbucks.com/store-locator/store/13918/43rd-broadway-1500-broadway-new-york-ny-100364015-us",
+            "https://www.starbucks.com/store-locator",
+            "https://www.starbucks.com/store-locator/store/9218/liberty-nassau-55-liberty-street-new-york-ny-100051003-us",
+            "https://www.starbucks.com/store-locator/store/17786/63rd-broadway-1889-broadway-new-york-ny-100237005-us",
+            "https://www.starbucks.com/",
+            "https://www.starbucks.com/store-locator/store/19114/96th-lexington-1491-lexington-avenue-new-york-ny-100297307-us",
+            "https://www.starbucks.com/store-locator/store/13467/19th-8th-177-eighth-avenue-new-york-ny-100111602-us",
+            "https://www.starbucks.com/store-locator/store/8735/59th-columbus-2-columbus-avenue-new-york-ny-100236924-us",
+            "https://www.starbucks.com/store-locator/store/12330/84th-third-1488-third-avenue-a-new-york-ny-100281967-us",
+            "https://www.starbucks.com/store-locator/store/8923/90th-first-400-east-90th-street-new-york-ny-101285153-us",
+            "https://www.starbucks.com/store-locator/store/1015661/85th-madison-1142-madison-ave-new-york-ny-100280414-us",
+            "https://www.starbucks.com/store-locator/store/11600/73rd-columbus-267-275-columbus-ave-new-york-ny-100232904-us",
+            "https://www.starbucks.com/store-locator/store/18290/28th-7th-315-seventh-avenue-new-york-ny-100016005-us",
+            "https://www.starbucks.com/store-locator/store/11834/canal-and-centre-241-canal-street-new-york-ny-100134118-us",
+            "https://www.starbucks.com/store-locator/store/8907/broadway-grand-471-broadway-new-york-ny-100132664-us",
+            "https://www.starbucks.com/store-locator/store/1015899/93rd-second-245-east-93rd-st-new-york-ny-10128-us",
+            "https://www.starbucks.com/store-locator/store/1006781/87th-third-1542-third-avenue-new-york-ny-10028-us",
+            "https://www.starbucks.com/store-locator/store/1021871/nassau-ave-lorimer-st-66-nassau-ave-brooklyn-ny-11222-us",
+            "https://www.starbucks.com/store-locator/store/6945/nhl-store-47th-sixth-1185-avenue-of-the-americas-new-york-ny-100362601-",
+            "https://www.starbucks.com/store-locator/store/1005509/47th-broadway-1585-broadway-new-york-ny-10036-us",
+            "https://www.starbucks.com/store-locator/store/16178/60th-first-1102-1st-ave-new-york-ny-100658702-us",
+            "https://www.starbucks.com/store-locator/store/12003/96th-madison-1378-madison-avenue-new-york-ny-101280712-us",
+            "https://www.starbucks.com/store-locator/store/14526/34th-park-3-park-avenue-new-york-ny-100165902-us",
+            "https://www.starbucks.com/store-locator/store/15295/lafayette-worth-111-worth-street-new-york-ny-100134008-us",
+            "https://www.starbucks.com/store-locator/store/1025251/34th-st-btwn8th-9th-ave-330-west-34th-st-new-york-ny100012406-us",
+            "https://www.starbucks.com/store-locator/store/116566/63rd-lexington-822-ave-new-york-ny-100657304-us",
+            "https://www.starbucks.com/store-locator/store/6756/23rd-btwn-5th-6th-14-w-23rd-st-new-york-ny-100105203-us",
+            "https://www.starbucks.com/store-locator/store/15099/17th-1st-286-first-avenue-new-york-ny-100091850-us",
+            "https://www.starbucks.com/store-locator/store/1019664/61st-west-end-ave-21-west-end-ave-new-york-ny-100237839-us",
+            "https://www.starbucks.com/store-locator/store/17645/23rd-park-304-park-avenue-south-new-york-ny-100104301-us",
+            "https://www.starbucks.com/store-locator/store/1021634/157-lafayette-157-lafayette-street-new-york-ny-10013-us",
+            "https://www.starbucks.com/store-locator/store/16813/35th-8th-494-eighth-ave-new-york-ny-100012519-us"
+        ],
+        "drink:tea": [
+            "yes"
+        ],
+        "payment:cash": [
+            "yes"
+        ],
+        "payment:contactless": [
+            "yes"
+        ],
+        "payment:credit_cards": [
+            "yes"
+        ],
+        "payment:debit_cards": [
+            "yes"
+        ],
+        "ref": [
+            "16853",
+            "9218"
+        ],
+        "air_conditioning": [
+            "yes"
+        ],
+        "bar": [
+            "no"
+        ],
+        "branch": [
+            "58th & Eighth",
+            "59th & Broadway",
+            "63rd & Broadway",
+            "59th & Columbus",
+            "84th & 3rd",
+            "73rd & Columbus",
+            "75th & Broadway",
+            "28th & 7th",
+            "Canal & Centre",
+            "Broadway & Grand",
+            "Lafayette & Worth",
+            "34th St. btwn 8th & 9th Ave",
+            "63rd & Lexington",
+            "17th & 1st",
+            "157 Lafayette"
+        ],
+        "diet:dairy_free": [
+            "yes"
+        ],
+        "diet:gluten_free": [
+            "yes"
+        ],
+        "diet:vegetarian": [
+            "yes"
+        ],
+        "payment:american_express": [
+            "yes"
+        ],
+        "payment:discover_card": [
+            "yes"
+        ],
+        "payment:mastercard": [
+            "yes"
+        ],
+        "payment:visa": [
+            "yes"
+        ],
+        "reservation": [
+            "no"
+        ],
+        "smoking": [
+            "no"
+        ],
+        "source": [
+            "survey"
+        ],
+        "female": [
+            "yes"
+        ],
+        "male": [
+            "yes"
+        ],
+        "entrance": [
+            "yes"
+        ],
+        "operator": [
+            "Starbucks"
+        ],
+        "drive_through": [
+            "no"
+        ],
+        "delivery": [
+            "yes"
+        ],
+        "building:part": [
+            "yes"
+        ],
+        "start_date": [
+            "1983"
+        ],
+        "internet_access:wlan": [
+            "yes"
+        ],
+        "opening_hours:signed": [
+            "no"
+        ],
+        "addr:suburb": [
+            "Manhattan"
+        ],
+        "name:en": [
+            "Starbucks"
+        ],
+        "internet_access:ssid": [
+            "Google Starbucks"
+        ],
+        "email": [
+            "s20679@retail.starbucks.com"
+        ],
+        "payment:unionpay": [
+            "yes"
+        ],
+        "indoor_seating": [
+            "yes"
+        ],
+        "capacity": [
+            "0"
+        ],
+        "check_date": [
+            "2022-09-05"
+        ],
+        "highchair": [
+            "no"
+        ],
+        "payment:telephone_cards": [
+            "no"
+        ],
+        "building": [
+            "yes"
+        ],
+        "height": [
+            "63.7",
+            "8.4"
+        ],
+        "nycdoitt:bin": [
+            "1042464",
+            "3400032"
+        ],
+        "indoor": [
+            "room"
+        ]
+    },
+    "merged_elements": {
+        "amenity=cafe": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6575702085",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8105873283",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "brand=Starbucks": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "brand:wikidata=Q37158": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6575702085",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8105873283",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "brand:wikipedia=en:Starbucks": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6575702085",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8105873283",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "cuisine=coffee_shop": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6575702085",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8105873283",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "name=Starbucks": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "official_name=Starbucks Coffee": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "takeaway=yes": [
+            "node/560636265",
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1292790745",
+            "node/1292819650",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1426250385",
+            "node/1427265082",
+            "node/1427273332",
+            "node/1427285902",
+            "node/1427499765",
+            "node/1428185672",
+            "node/1428427548",
+            "node/1428427554",
+            "node/1428427562",
+            "node/1584932953",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1868984359",
+            "node/1899033653",
+            "node/1900975316",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2547110379",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2610440250",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2689474985",
+            "node/2712074757",
+            "node/2715512001",
+            "node/2716012047",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2797917337",
+            "node/2821326392",
+            "node/2895942926",
+            "node/2897876740",
+            "node/2898706760",
+            "node/3020907167",
+            "node/3143926573",
+            "node/3235708620",
+            "node/3248774671",
+            "node/3264422314",
+            "node/3421054402",
+            "node/3451116497",
+            "node/3452904870",
+            "node/3577542666",
+            "node/3676902927",
+            "node/3733142431",
+            "node/3792073193",
+            "node/3809980649",
+            "node/3869752135",
+            "node/3938479922",
+            "node/3958232658",
+            "node/3960147947",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4494829289",
+            "node/4568929154",
+            "node/4568929157",
+            "node/4755831441",
+            "node/4825490321",
+            "node/4850230829",
+            "node/4922311233",
+            "node/4938355321",
+            "node/4966951439",
+            "node/4995849481",
+            "node/5090743953",
+            "node/5092488424",
+            "node/5145299521",
+            "node/5351832787",
+            "node/5408681221",
+            "node/5415649562",
+            "node/5599264049",
+            "node/5603563258",
+            "node/5625728960",
+            "node/5754828788",
+            "node/5955392985",
+            "node/5978558001",
+            "node/5978837386",
+            "node/5985763486",
+            "node/5985838985",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6127380526",
+            "node/6270649485",
+            "node/6376760969",
+            "node/6403172421",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6575702085",
+            "node/6612404178",
+            "node/6615272822",
+            "node/6630517160",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6744695372",
+            "node/6752564944",
+            "node/6764076981",
+            "node/6789471481",
+            "node/6852143017",
+            "node/6952884368",
+            "node/6955034549",
+            "node/7084620591",
+            "node/7093921924",
+            "node/7093921956",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8105873283",
+            "node/8238256286",
+            "node/8289799740",
+            "node/8455829693",
+            "node/8551295312",
+            "node/8551468889",
+            "node/8551468902",
+            "node/8622598771",
+            "node/8644307517",
+            "node/8669140491",
+            "node/8832734925",
+            "node/8872982377",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/8990769665",
+            "node/9173283016",
+            "node/9806919511",
+            "way/266879142",
+            "way/280137527",
+            "way/632686089"
+        ],
+        "diet:vegan=yes": [
+            "node/870317225",
+            "node/883181314",
+            "node/886702490",
+            "node/889472802",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1383954690",
+            "node/1584932953",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1899033653",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423176814",
+            "node/2688264646",
+            "node/2758287019",
+            "node/8890918163"
+        ],
+        "drink:soy_milk=yes": [
+            "node/870317225",
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1383954690",
+            "node/1584932953",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1899033653",
+            "node/1917136131",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2034011022",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2178743034",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2279508475",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2688264646",
+            "node/2758287019"
+        ],
+        "opening_hours=Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 07:00-20:00": [
+            "node/870317225"
+        ],
+        "wheelchair=yes": [
+            "node/883181314",
+            "node/883235940",
+            "node/886702490",
+            "node/889472802",
+            "node/1383935070",
+            "node/1383935410",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2047269475",
+            "node/2077086482",
+            "node/2183010488",
+            "node/2186614190",
+            "node/2547110379",
+            "node/2594630499",
+            "node/2611782760",
+            "node/2620513899",
+            "node/2716012089",
+            "node/2723749985",
+            "node/2898706760",
+            "node/3452904870",
+            "node/3938479922",
+            "node/4402180605",
+            "node/4568929154",
+            "node/4850230829",
+            "node/4938355321",
+            "node/4966951439",
+            "node/5754828788",
+            "node/5978558001",
+            "node/6403172421",
+            "node/6612404178",
+            "node/6789471481",
+            "node/7093921924",
+            "node/7475192460",
+            "node/7591060173",
+            "node/8289799740",
+            "node/8942090280",
+            "node/9806919511"
+        ],
+        "addr:city=New York": [
+            "node/883235940",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1427499765",
+            "node/1994680562",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2186614190",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2550067150",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2621577431",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2634398946",
+            "node/2678783481",
+            "node/2688264646",
+            "node/2716012089",
+            "node/2721574123",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2898706760",
+            "node/3143926573",
+            "node/3248774671",
+            "node/3958232658",
+            "node/4755831441",
+            "node/5603563258",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6630517160",
+            "node/6955034549",
+            "node/7093921924",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8622598771",
+            "node/8883769317",
+            "node/8890918163",
+            "node/9173283016",
+            "way/266879142"
+        ],
+        "addr:country=US": [
+            "node/883235940",
+            "node/1427499765",
+            "node/1994680562",
+            "node/2077086482",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2443892139",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2688264646",
+            "node/2716012089",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/4755831441",
+            "way/280137527"
+        ],
+        "addr:housenumber=350": [
+            "node/883235940"
+        ],
+        "addr:postcode=10118": [
+            "node/883235940"
+        ],
+        "addr:state=NY": [
+            "node/883235940",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1427499765",
+            "node/1994680562",
+            "node/2047269475",
+            "node/2077086482",
+            "node/2186614190",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2550067150",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2688264646",
+            "node/2716012089",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/3235708620",
+            "node/3248774671",
+            "node/4755831441",
+            "node/4966951439",
+            "node/5603563258",
+            "node/6507019906",
+            "node/6566684054",
+            "node/6630517160",
+            "node/6955034549",
+            "node/7093921924",
+            "node/7475192460",
+            "node/7591060173",
+            "node/7678152117",
+            "node/8105873283",
+            "node/8622598771",
+            "node/8883769317",
+            "node/8890918163",
+            "node/8942090280",
+            "node/9173283016",
+            "way/266879142",
+            "way/280137527"
+        ],
+        "addr:street=5th Avenue": [
+            "node/883235940",
+            "node/2716012089"
+        ],
+        "addr:unit=6": [
+            "node/883235940"
+        ],
+        "drink:coffee=yes": [
+            "node/883235940",
+            "node/886702490",
+            "node/2689474985",
+            "node/3264422314",
+            "node/3958232658",
+            "node/5625728960",
+            "node/8622598771"
+        ],
+        "internet_access=wlan": [
+            "node/883235940",
+            "node/886702490",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1426250385",
+            "node/1427499765",
+            "node/1428427562",
+            "node/1802885415",
+            "node/1825739845",
+            "node/1825739854",
+            "node/1994680562",
+            "node/2034011016",
+            "node/2045635529",
+            "node/2047269475",
+            "node/2077086482",
+            "node/2183010488",
+            "node/2310498477",
+            "node/2357937257",
+            "node/2357937268",
+            "node/2358048511",
+            "node/2358048512",
+            "node/2377128180",
+            "node/2377128181",
+            "node/2377128182",
+            "node/2423037502",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2594630499",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2688264646",
+            "node/2712074757",
+            "node/2716012089",
+            "node/2723749985",
+            "node/2723782910",
+            "node/2758287019",
+            "node/2821326392",
+            "node/3235708620",
+            "node/3452904870",
+            "node/3577542666",
+            "node/4402180605",
+            "node/4441702689",
+            "node/4755831441",
+            "node/5599264049",
+            "node/5985763486",
+            "node/6068979466",
+            "node/6127095703",
+            "node/6376760969",
+            "node/6612404178",
+            "node/6636462195",
+            "node/6680695923",
+            "node/6789471481",
+            "node/6955034549",
+            "node/7475192460",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163",
+            "way/280137527"
+        ],
+        "internet_access:fee=no": [
+            "node/883235940",
+            "node/886702490",
+            "node/1383935410",
+            "node/1383942697",
+            "node/1426250385",
+            "node/2310498477",
+            "node/2423176814",
+            "node/2443892139",
+            "node/2550067150",
+            "node/2594630499",
+            "node/2611782760",
+            "node/2611782761",
+            "node/2620513899",
+            "node/2620513907",
+            "node/2623014606",
+            "node/2623014627",
+            "node/2623014636",
+            "node/2629277997",
+            "node/2629371850",
+            "node/2712074757",
+            "node/2723749985",
+            "node/2723782910",
+            "node/4402180605",
+            "node/4755831441",
+            "node/5351832787",
+            "node/5603563258",
+            "node/6068979466",
+            "node/6566684054",
+            "node/6612404178",
+            "node/6680695923",
+            "node/6789471481",
+            "node/7475192460",
+            "node/7591060173",
+            "node/8105873283",
+            "node/8669140491",
+            "node/8890918163",
+            "way/280137527"
+        ],
+        "level=0": [
+            "node/883235940",
+            "node/1383935410",
+            "node/2310498477",
+            "node/2423176814",
+            "node/2620513899",
+            "node/6612404178",
+            "node/6789471481",
+            "node/7591060173",
+            "node/8669140491",
+            "way/632686089"
+        ],
+        "opening_hours=Mo-Fr 06:30-18:00": [
+            "node/883235940"
+        ],
+        "opening_hours:covid19=open": [
+            "node/883235940",
+            "node/1383935410",
+            "node/1383942697",
+            "node/2423176814"
+        ],
+        "outdoor_seating=no": [
+            "node/883235940",
+            "node/2047269475",
+            "node/2065455029",
+            "node/2077086482",
+            "node/2310498477",
+            "node/2550067150",
+            "node/6127095703",
+            "node/6566684054",
+            "node/7084620591",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "phone=+1-212-564-9141": [
+            "node/883235940"
+        ],
+        "toilets=yes": [
+            "node/883235940",
+            "node/886702490",
+            "node/2620513899",
+            "node/3958232658",
+            "node/5599264049",
+            "node/5625728960",
+            "node/5754828788",
+            "node/6068979466",
+            "node/6403172421"
+        ],
+        "toilets:access=yes": [
+            "node/883235940",
+            "node/5625728960",
+            "node/6068979466"
+        ],
+        "toilets:wheelchair=yes": [
+            "node/883235940",
+            "node/886702490",
+            "node/4966951439",
+            "node/6615272822",
+            "node/7093921924"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us": [
+            "node/883235940"
+        ],
+        "addr:housenumber=665": [
+            "node/886702490"
+        ],
+        "addr:street=Broadway": [
+            "node/886702490",
+            "node/1994680562",
+            "node/2310498477",
+            "node/2443892139",
+            "node/2621577431",
+            "node/3248774671",
+            "node/4755831441",
+            "node/8883769317",
+            "node/8942090280"
+        ],
+        "drink:tea=yes": [
+            "node/886702490",
+            "node/2689474985"
+        ],
+        "opening_hours=Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; Su 07:00-21:30": [
+            "node/886702490"
+        ],
+        "payment:cash=yes": [
+            "node/886702490",
+            "node/1383935410",
+            "node/1383942697",
+            "node/2423176814",
+            "node/5625728960",
+            "node/6630517160",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "payment:contactless=yes": [
+            "node/886702490",
+            "node/6630517160",
+            "node/7591060173"
+        ],
+        "payment:credit_cards=yes": [
+            "node/886702490",
+            "node/6630517160",
+            "node/8289799740",
+            "node/8669140491"
+        ],
+        "payment:debit_cards=yes": [
+            "node/886702490",
+            "node/1383935410",
+            "node/1383942697",
+            "node/6630517160",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "phone=+1-917-534-0799": [
+            "node/886702490"
+        ],
+        "ref=16853": [
+            "node/886702490"
+        ],
+        "website=https://starbucks.com/store/16853/": [
+            "node/886702490"
+        ],
+        "addr:housenumber=4": [
+            "node/1383935410"
+        ],
+        "addr:postcode=10019": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2629277997",
+            "node/4494829289",
+            "node/7475192460"
+        ],
+        "addr:street=Columbus Circle": [
+            "node/1383935410"
+        ],
+        "air_conditioning=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2310498477",
+            "node/2423176814",
+            "node/6630517160",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "bar=no": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2310498477",
+            "node/2423176814",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "branch=58th & Eighth": [
+            "node/1383935410"
+        ],
+        "diet:dairy_free=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2310498477",
+            "node/2423176814"
+        ],
+        "diet:gluten_free=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2310498477",
+            "node/2423176814",
+            "node/8890918163"
+        ],
+        "diet:vegetarian=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2310498477",
+            "node/2423176814",
+            "node/7084620591",
+            "node/8890918163"
+        ],
+        "opening_hours=Mo-Sa 06:00-19:00; Su 07:00-18:00": [
+            "node/1383935410"
+        ],
+        "payment:american_express=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2423176814",
+            "node/5625728960",
+            "node/6630517160",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "payment:discover_card=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2423176814",
+            "node/5625728960",
+            "node/7591060173"
+        ],
+        "payment:mastercard=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2423176814",
+            "node/5625728960",
+            "node/6630517160",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "payment:visa=yes": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2423176814",
+            "node/5625728960",
+            "node/6630517160",
+            "node/7591060173",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "phone=+1-212-265-0658": [
+            "node/1383935410"
+        ],
+        "reservation=no": [
+            "node/1383935410",
+            "node/1383942697",
+            "node/2310498477",
+            "node/2423176814",
+            "node/7591060173",
+            "node/8669140491"
+        ],
+        "smoking=no": [
+            "node/1383935410",
+            "node/2065455029",
+            "node/2310498477",
+            "node/2423176814",
+            "node/2550067150",
+            "node/5351832787",
+            "node/6612404178",
+            "node/6630517160",
+            "node/7475192460",
+            "node/7591060173",
+            "node/8669140491"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/13904/58th-eighth-4-columbus-circle-new-york-ny-100191100-us": [
+            "node/1383935410"
+        ],
+        "addr:housenumber=240": [
+            "node/1383942697"
+        ],
+        "addr:street=Central Park South": [
+            "node/1383942697"
+        ],
+        "branch=59th & Broadway": [
+            "node/1383942697"
+        ],
+        "opening_hours=Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00": [
+            "node/1383942697"
+        ],
+        "phone=+1-718-635-9564": [
+            "node/1383942697"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1030514/59th-broadway-240-central-park-south-new-york-ny-10019-us": [
+            "node/1383942697"
+        ],
+        "addr:postcode=10036": [
+            "node/1426250385",
+            "node/2688264646",
+            "node/2721574123",
+            "node/5985763486",
+            "node/5985838985",
+            "node/7093921924"
+        ],
+        "opening_hours=24/7": [
+            "node/1426250385"
+        ],
+        "phone=2122217515": [
+            "node/1426250385"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/13918/43rd-broadway-1500-broadway-new-york-ny-100364015-us": [
+            "node/1426250385"
+        ],
+        "addr:housenumber=295": [
+            "node/1427499765"
+        ],
+        "addr:postcode=10017": [
+            "node/1427499765",
+            "node/2716012089"
+        ],
+        "addr:street=Madison Avenue": [
+            "node/1427499765",
+            "node/2689474985",
+            "node/6270649485"
+        ],
+        "opening_hours=Mo-Fr 05:30-22:00; Sa-Su 07:00-21:00": [
+            "node/1427499765"
+        ],
+        "opening_hours=Mo-Fr 05:30-21:00; Sa,Su 07:00-21:00": [
+            "node/1428185672"
+        ],
+        "opening_hours=Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-18:00": [
+            "node/1428427562"
+        ],
+        "addr:housenumber=585": [
+            "node/1584932953"
+        ],
+        "addr:postcode=10016": [
+            "node/1584932953",
+            "node/5145299521",
+            "node/6852143017"
+        ],
+        "addr:street=2nd Avenue": [
+            "node/1584932953",
+            "node/2623014636"
+        ],
+        "source=survey": [
+            "node/1584932953",
+            "node/2547110379"
+        ],
+        "addr:housenumber=280": [
+            "node/1802885415"
+        ],
+        "addr:street=Park Avenue": [
+            "node/1802885415"
+        ],
+        "website=https://www.starbucks.com/store-locator": [
+            "node/1802885415"
+        ],
+        "opening_hours=Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00": [
+            "node/1825739845",
+            "node/2377128182",
+            "node/2620513907",
+            "node/2629277997",
+            "node/3421054402"
+        ],
+        "phone=+1 212 366 4672": [
+            "node/1825739845"
+        ],
+        "opening_hours=Mo-Fr 05:30-22:00; Sa-Su 06:00-22:00": [
+            "node/1825739854"
+        ],
+        "phone=+1 646 230 7145": [
+            "node/1825739854"
+        ],
+        "addr:housenumber=518": [
+            "node/1868984359"
+        ],
+        "addr:postcode=10014": [
+            "node/1868984359",
+            "node/2358048512",
+            "node/6630517160"
+        ],
+        "addr:street=Hudson Street": [
+            "node/1868984359",
+            "node/5351832787",
+            "node/6630517160"
+        ],
+        "female=yes": [
+            "node/1868984359"
+        ],
+        "male=yes": [
+            "node/1868984359"
+        ],
+        "opening_hours=Mo-Su 06:30-21:30": [
+            "node/1868984359"
+        ],
+        "entrance=yes": [
+            "node/1900975316"
+        ],
+        "operator=Starbucks": [
+            "node/1900975316",
+            "node/2065455029",
+            "node/4755831441",
+            "node/5985763486"
+        ],
+        "addr:housenumber=2252": [
+            "node/1994680562"
+        ],
+        "addr:postcode=10024": [
+            "node/1994680562",
+            "node/2758287019"
+        ],
+        "opening_hours=Mo 07:00-22:00; Tu-Su 06:00-23:00": [
+            "node/1994680562"
+        ],
+        "opening_hours=Mo-Fr 05:30-21:00; Sa-Su 07:00-20:00": [
+            "node/2034011016"
+        ],
+        "wheelchair=no": [
+            "node/2034011022",
+            "node/6127095703"
+        ],
+        "opening_hours=Mo-Fr 05:30-23:00; Sa 06:00-23:00; Su 06:00-22:00": [
+            "node/2045635529"
+        ],
+        "addr:housenumber=130": [
+            "node/2047269475"
+        ],
+        "addr:postcode=10038": [
+            "node/2047269475",
+            "node/2898706760"
+        ],
+        "addr:street=Fulton Street": [
+            "node/2047269475"
+        ],
+        "internet_access:fee=yes": [
+            "node/2047269475"
+        ],
+        "opening_hours=Mo-Sa 06:00-19:00; Su 06:00-18:30": [
+            "node/2047269475"
+        ],
+        "phone=+1-212-962-0439": [
+            "node/2047269475"
+        ],
+        "addr:housenumber=72": [
+            "node/2065455029"
+        ],
+        "addr:postcode=10002": [
+            "node/2065455029"
+        ],
+        "addr:street=Spring Street": [
+            "node/2065455029"
+        ],
+        "drive_through=no": [
+            "node/2065455029",
+            "node/7591060173"
+        ],
+        "phone=+1-212-219-2961": [
+            "node/2065455029"
+        ],
+        "toilets:wheelchair=no": [
+            "node/2065455029",
+            "node/2423176814",
+            "node/2716012089",
+            "node/5978558001"
+        ],
+        "wheelchair=limited": [
+            "node/2065455029",
+            "node/2423176814",
+            "node/6615272822",
+            "node/8669140491"
+        ],
+        "addr:housenumber=55": [
+            "node/2077086482"
+        ],
+        "addr:postcode=10005": [
+            "node/2077086482",
+            "node/2186614190",
+            "node/4850230829"
+        ],
+        "addr:street=Liberty Street": [
+            "node/2077086482"
+        ],
+        "opening_hours=Mo-Fr 06:00-18:30": [
+            "node/2077086482"
+        ],
+        "phone=+1 212-227-0372": [
+            "node/2077086482"
+        ],
+        "ref=9218": [
+            "node/2077086482"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/9218/liberty-nassau-55-liberty-street-new-york-ny-100051003-us": [
+            "node/2077086482"
+        ],
+        "addr:housenumber=110": [
+            "node/2186614190"
+        ],
+        "addr:street=Pearl Street": [
+            "node/2186614190"
+        ],
+        "addr:housenumber=219": [
+            "node/2279508475"
+        ],
+        "addr:postcode=10003": [
+            "node/2279508475",
+            "node/2550067150",
+            "node/3676902927"
+        ],
+        "addr:street=1st Avenue": [
+            "node/2279508475",
+            "node/2357937257",
+            "node/2723749985",
+            "node/2723782910",
+            "node/6068979466",
+            "node/7084620591"
+        ],
+        "opening_hours=Mo-Fr 06:30-18:30; Sa,Su 07:00-18:30": [
+            "node/2279508475",
+            "node/7084620591"
+        ],
+        "addr:housenumber=1889": [
+            "node/2310498477"
+        ],
+        "addr:postcode=10023": [
+            "node/2310498477",
+            "node/2443892139",
+            "node/3235708620",
+            "node/3248774671",
+            "node/7591060173"
+        ],
+        "branch=63rd & Broadway": [
+            "node/2310498477"
+        ],
+        "opening_hours=Mo-Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-23:00": [
+            "node/2310498477",
+            "node/2688264646"
+        ],
+        "opening_hours:covid19=Mo-Fr 06:00-21:00; Sa-Su 06:30-20:30": [
+            "node/2310498477"
+        ],
+        "phone=+1-212-245-1362": [
+            "node/2310498477"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/17786/63rd-broadway-1889-broadway-new-york-ny-100237005-us": [
+            "node/2310498477"
+        ],
+        "addr:housenumber=1631": [
+            "node/2357937257"
+        ],
+        "addr:postcode=10028": [
+            "node/2357937257",
+            "node/2620513899",
+            "node/2623014636",
+            "node/9173283016"
+        ],
+        "opening_hours=Mo-Su 06:00-22:00": [
+            "node/2357937257"
+        ],
+        "website=https://www.starbucks.com/": [
+            "node/2357937257",
+            "node/2621577431",
+            "node/2634398946"
+        ],
+        "addr:housenumber=1491": [
+            "node/2357937268"
+        ],
+        "addr:postcode=10029": [
+            "node/2357937268"
+        ],
+        "addr:street=Lexington Avenue": [
+            "node/2357937268",
+            "node/6403172421",
+            "node/6789471481"
+        ],
+        "opening_hours=Mo-Th 05:30-22:00; Su 06:00-21:30; Fr, Sa 05:30-22:30": [
+            "node/2357937268"
+        ],
+        "phone=+1-212-369-0313": [
+            "node/2357937268"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/19114/96th-lexington-1491-lexington-avenue-new-york-ny-100297307-us": [
+            "node/2357937268"
+        ],
+        "opening_hours=Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:30-23:00": [
+            "node/2358048511"
+        ],
+        "addr:housenumber=74": [
+            "node/2358048512"
+        ],
+        "addr:street=Grove Street": [
+            "node/2358048512"
+        ],
+        "opening_hours=Mo-Th 05:30-23:30; Fr 05:30-00:30; Sa 06:00-00:30; Su 06:00-23:30": [
+            "node/2358048512"
+        ],
+        "addr:housenumber=124": [
+            "node/2377128180"
+        ],
+        "addr:postcode=10011": [
+            "node/2377128180",
+            "node/2377128181"
+        ],
+        "addr:street=8th Avenue": [
+            "node/2377128180",
+            "node/2377128181",
+            "node/2721574123",
+            "node/5754828788",
+            "node/8669140491"
+        ],
+        "opening_hours=Mo-Fr 05:30-24:00; Sa,Su 07:00-24:00": [
+            "node/2377128180"
+        ],
+        "addr:housenumber=177": [
+            "node/2377128181"
+        ],
+        "delivery=yes": [
+            "node/2377128181",
+            "node/6789471481"
+        ],
+        "opening_hours=Mo-Fr 05:30-23:00; Sa-Su 06:00-23:00": [
+            "node/2377128181"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/13467/19th-8th-177-eighth-avenue-new-york-ny-100111602-us": [
+            "node/2377128181"
+        ],
+        "opening_hours=Mo-Fr 05:00-21:00, Su 06:30-21:00, Sa 06:30-21:00, PH 07:00-19:00": [
+            "node/2423037502"
+        ],
+        "addr:housenumber=2": [
+            "node/2423176814"
+        ],
+        "addr:street=Columbus Avenue": [
+            "node/2423176814",
+            "node/2758287019",
+            "node/3235708620"
+        ],
+        "branch=59th & Columbus": [
+            "node/2423176814"
+        ],
+        "opening_hours=Mo-Fr 06:00-20:00; Sa-Su 07:00-18:00": [
+            "node/2423176814"
+        ],
+        "phone=+1-212-489-6757": [
+            "node/2423176814"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/8735/59th-columbus-2-columbus-avenue-new-york-ny-100236924-us": [
+            "node/2423176814"
+        ],
+        "addr:housenumber=2045": [
+            "node/2443892139"
+        ],
+        "opening_hours=Mo-Th 05:30-23:00; Fr 05:30-24:00; Sa 06:00-24:00; Su 06:00-22:30": [
+            "node/2443892139"
+        ],
+        "addr:housenumber=10": [
+            "node/2550067150"
+        ],
+        "addr:street=Waverly Place": [
+            "node/2550067150"
+        ],
+        "internet_access=yes": [
+            "node/2550067150",
+            "node/3020907167",
+            "node/3248774671",
+            "node/3809980649",
+            "node/3958232658",
+            "node/5351832787",
+            "node/5603563258",
+            "node/6566684054",
+            "node/6952884368",
+            "node/8105873283"
+        ],
+        "opening_hours=Mo-Su 6:00-20:30": [
+            "node/2550067150"
+        ],
+        "opening_hours=Mo-Fr 06:00-20:00; Sa-Su 07:00-20:00": [
+            "node/2594630499"
+        ],
+        "addr:housenumber=750": [
+            "node/2610440250",
+            "node/3958232658"
+        ],
+        "addr:street=7th Avenue": [
+            "node/2610440250",
+            "node/3264422314",
+            "node/6507019906"
+        ],
+        "addr:street=6th Avenue": [
+            "node/2611782760",
+            "node/2629277997",
+            "node/3958232658",
+            "node/4441702689",
+            "node/5985763486",
+            "node/6566684054",
+            "node/6752564944"
+        ],
+        "opening_hours=Mo-Fr 06:00-21:00; Sa 07:30-19:00; Su 08:00-16:30": [
+            "node/2611782760"
+        ],
+        "opening_hours=Mo-Th 05:30-21:00; Fr 05:30-22:00; Sa-Su 06:00-21:00": [
+            "node/2611782761"
+        ],
+        "addr:housenumber=1488": [
+            "node/2620513899"
+        ],
+        "addr:street=3rd Avenue": [
+            "node/2620513899",
+            "node/2623014627",
+            "node/3676902927",
+            "node/5625728960",
+            "node/6852143017",
+            "way/266879142"
+        ],
+        "addr:unit=A": [
+            "node/2620513899",
+            "node/7084620591"
+        ],
+        "branch=84th & 3rd": [
+            "node/2620513899"
+        ],
+        "opening_hours=Mo-Fr 06:30-19:30; Sa, Su 06:30-19:00": [
+            "node/2620513899"
+        ],
+        "phone=+1 212-744-7458": [
+            "node/2620513899"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/12330/84th-third-1488-third-avenue-a-new-york-ny-100281967-us": [
+            "node/2620513899"
+        ],
+        "addr:housenumber=120": [
+            "node/2620513907"
+        ],
+        "addr:postcode=10128": [
+            "node/2620513907"
+        ],
+        "addr:street=East 87th Street": [
+            "node/2620513907"
+        ],
+        "addr:housenumber=1140": [
+            "node/2621577431"
+        ],
+        "addr:postcode=10001": [
+            "node/2621577431",
+            "node/2634398946",
+            "node/3264422314",
+            "node/4441702689",
+            "node/6680695923",
+            "node/8669140491",
+            "node/8890918163"
+        ],
+        "opening_hours=Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00": [
+            "node/2623014606",
+            "node/2716012089"
+        ],
+        "addr:housenumber=1128": [
+            "node/2623014627",
+            "way/266879142"
+        ],
+        "addr:postcode=10065": [
+            "node/2623014627",
+            "node/6068979466",
+            "node/6789471481",
+            "way/266879142"
+        ],
+        "opening_hours=Mo-Fr 04:45-22:30; Sa-Su 05:30-22:00": [
+            "node/2623014627"
+        ],
+        "addr:housenumber=1559": [
+            "node/2623014636"
+        ],
+        "opening_hours=Mo-Th 05:30-22:00; Fr 05:30-23:00; Sa 06:00-23:00; Su 05:45-22:00": [
+            "node/2623014636"
+        ],
+        "addr:housenumber=1380": [
+            "node/2629277997"
+        ],
+        "addr:housenumber=400": [
+            "node/2629371850"
+        ],
+        "addr:street=East 90th Street": [
+            "node/2629371850"
+        ],
+        "opening_hours=05:30-20:30": [
+            "node/2629371850"
+        ],
+        "phone=+1 212-987-0891": [
+            "node/2629371850"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/8923/90th-first-400-east-90th-street-new-york-ny-101285153-us": [
+            "node/2629371850"
+        ],
+        "addr:housenumber=776": [
+            "node/2634398946"
+        ],
+        "addr:street=Avenue of the Americas": [
+            "node/2634398946"
+        ],
+        "phone=(212) 481-1856": [
+            "node/2634398946"
+        ],
+        "addr:housenumber=684": [
+            "node/2688264646",
+            "node/6752564944"
+        ],
+        "addr:street=9th Avenue": [
+            "node/2688264646",
+            "node/6575702085"
+        ],
+        "phone=+1 212 398 9702": [
+            "node/2688264646"
+        ],
+        "addr:housenumber=1142": [
+            "node/2689474985"
+        ],
+        "opening_hours=Mo-Fr 05:30-20:00; Sa, Su 06:00-20:00": [
+            "node/2689474985"
+        ],
+        "phone=+1 212-288-1506": [
+            "node/2689474985"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1015661/85th-madison-1142-madison-ave-new-york-ny-100280414-us": [
+            "node/2689474985"
+        ],
+        "addr:housenumber=45": [
+            "node/2716012047"
+        ],
+        "addr:postcode=10022": [
+            "node/2716012047"
+        ],
+        "addr:street=East 51st Street": [
+            "node/2716012047"
+        ],
+        "addr:housenumber=575": [
+            "node/2716012089"
+        ],
+        "building:part=yes": [
+            "node/2716012089"
+        ],
+        "start_date=1983": [
+            "node/2716012089"
+        ],
+        "addr:housenumber=770": [
+            "node/2721574123"
+        ],
+        "addr:housenumber=1281": [
+            "node/2723749985"
+        ],
+        "addr:postcode=10021": [
+            "node/2723749985",
+            "node/2723782910"
+        ],
+        "opening_hours=Mo-Sa 05:00-23:00; Su 05:30-22:00": [
+            "node/2723749985"
+        ],
+        "addr:housenumber=1445": [
+            "node/2723782910"
+        ],
+        "opening_hours=Mo-Fr 05:00-22:00; Sa 05:30-23:00; Su 05:30-22:00": [
+            "node/2723782910"
+        ],
+        "addr:housenumber=540": [
+            "node/2758287019"
+        ],
+        "opening_hours=Mo-Th 05:30-22:00; Fr 05:30-22:30; Sa 06:00-22:30; Su 06:00-22:00": [
+            "node/2758287019"
+        ],
+        "opening_hours=Mo-Fr 05:30-20:30; Sa 06:30-20:30; Su 07:30-19:30": [
+            "node/2821326392"
+        ],
+        "addr:housenumber=135": [
+            "node/2898706760"
+        ],
+        "addr:street=John Street": [
+            "node/2898706760"
+        ],
+        "opening_hours=Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00": [
+            "node/2898706760"
+        ],
+        "phone=+12123440894": [
+            "node/2898706760"
+        ],
+        "addr:housenumber=1515": [
+            "node/3143926573"
+        ],
+        "addr:street=York Avenue": [
+            "node/3143926573"
+        ],
+        "addr:housenumber=267-275": [
+            "node/3235708620"
+        ],
+        "branch=73rd & Columbus": [
+            "node/3235708620"
+        ],
+        "opening_hours=Mo-Th 05:30-21:30; Fr 05:00-21:30; Sa 06:00-22:00; Su 06:00-21:30": [
+            "node/3235708620"
+        ],
+        "phone=+1 212-579-7834": [
+            "node/3235708620"
+        ],
+        "toilets=no": [
+            "node/3235708620"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/11600/73rd-columbus-267-275-columbus-ave-new-york-ny-100232904-us": [
+            "node/3235708620"
+        ],
+        "addr:housenumber=2138": [
+            "node/3248774671"
+        ],
+        "branch=75th & Broadway": [
+            "node/3248774671"
+        ],
+        "addr:housenumber=315": [
+            "node/3264422314"
+        ],
+        "branch=28th & 7th": [
+            "node/3264422314"
+        ],
+        "internet_access:wlan=yes": [
+            "node/3264422314"
+        ],
+        "opening_hours=Mo-Sa 06:00-21:00; Su 06:00-20:30": [
+            "node/3264422314"
+        ],
+        "phone=+1 646-336-6462": [
+            "node/3264422314"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/18290/28th-7th-315-seventh-avenue-new-york-ny-100016005-us": [
+            "node/3264422314"
+        ],
+        "addr:city=Astoria": [
+            "node/3452904870",
+            "node/4966951439",
+            "node/8942090280"
+        ],
+        "addr:housenumber=37-11": [
+            "node/3452904870"
+        ],
+        "addr:street=35th Avenue": [
+            "node/3452904870"
+        ],
+        "addr:housenumber=145": [
+            "node/3676902927"
+        ],
+        "opening_hours=Mo-Fr 06:00-18:30; Sa 06:30-18:30; Su 07:00-18:00": [
+            "node/3676902927"
+        ],
+        "phone=(212) 677-7248": [
+            "node/3676902927"
+        ],
+        "addr:housenumber=35": [
+            "node/3733142431"
+        ],
+        "addr:street=Track": [
+            "node/3733142431"
+        ],
+        "level=-1": [
+            "node/3733142431"
+        ],
+        "opening_hours:signed=no": [
+            "node/3869752135"
+        ],
+        "opening_hours=Mo-Th, Su 06:00-21:00; Fr 06:00-21:30; Sa 05:30-22:00": [
+            "node/3958232658"
+        ],
+        "toilets:access=public": [
+            "node/3958232658"
+        ],
+        "addr:housenumber=875": [
+            "node/4441702689"
+        ],
+        "opening_hours=Mo-Th 05:30-22:00; Fr 05:30-22:30; Sa 06:00-21:30; Su 06:30-21:30": [
+            "node/4441702689"
+        ],
+        "addr:housenumber=325": [
+            "node/4494829289"
+        ],
+        "addr:street=West 49th Street": [
+            "node/4494829289"
+        ],
+        "addr:housenumber=241": [
+            "node/4568929154"
+        ],
+        "addr:postcode=10013": [
+            "node/4568929154",
+            "node/4755831441",
+            "node/6636462195",
+            "node/8622598771"
+        ],
+        "addr:street=Canal Street": [
+            "node/4568929154"
+        ],
+        "branch=Canal & Centre": [
+            "node/4568929154"
+        ],
+        "opening_hours=Mo-Th 06:00-20:00; Fr 06:00-21:30; Sa 05:30-21:00; Su 06:00-20:30": [
+            "node/4568929154"
+        ],
+        "phone=+1 212-219-2725": [
+            "node/4568929154"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/11834/canal-and-centre-241-canal-street-new-york-ny-100134118-us": [
+            "node/4568929154"
+        ],
+        "addr:housenumber=471": [
+            "node/4755831441"
+        ],
+        "addr:suburb=Manhattan": [
+            "node/4755831441"
+        ],
+        "branch=Broadway & Grand": [
+            "node/4755831441"
+        ],
+        "opening_hours=Mo-Fr 06:30-21:30; Sa,Su 07:00-21:30": [
+            "node/4755831441"
+        ],
+        "phone=212-219-8787": [
+            "node/4755831441"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/8907/broadway-grand-471-broadway-new-york-ny-100132664-us": [
+            "node/4755831441"
+        ],
+        "name:en=Starbucks": [
+            "node/4825490321",
+            "node/4938355321",
+            "node/5092488424"
+        ],
+        "opening_hours=Mo-Fr 07:00-20:00; Sa-Su 07:00-18:00": [
+            "node/4850230829"
+        ],
+        "phone=+13474614068": [
+            "node/4850230829"
+        ],
+        "addr:housenumber=31-44": [
+            "node/4966951439"
+        ],
+        "addr:postcode=11103": [
+            "node/4966951439"
+        ],
+        "addr:street=Steinway Street": [
+            "node/4966951439"
+        ],
+        "level=2": [
+            "node/4995849481"
+        ],
+        "addr:housenumber=46-09": [
+            "node/5092488424"
+        ],
+        "addr:street=Queens Boulevard": [
+            "node/5092488424"
+        ],
+        "addr:housenumber=200": [
+            "node/5145299521"
+        ],
+        "addr:street=East 28th Street": [
+            "node/5145299521"
+        ],
+        "opening_hours=Mo-Th 05:30-21:30; Fr 05:30-22:00; Sa 06:00-22:00; Su 06:00-21:30": [
+            "node/5145299521"
+        ],
+        "addr:city=Hoboken": [
+            "node/5351832787",
+            "node/6127095703"
+        ],
+        "addr:housenumber=1205": [
+            "node/5351832787"
+        ],
+        "addr:postcode=07030": [
+            "node/5351832787",
+            "node/6127095703"
+        ],
+        "addr:state=NJ": [
+            "node/5351832787",
+            "node/6127095703"
+        ],
+        "internet_access:ssid=Google Starbucks": [
+            "node/5351832787"
+        ],
+        "opening_hours=Mo-Th 05:00-23:00; Fr 05:00-23:30; Sa 06:00-23:30; Su 06:00-23:00": [
+            "node/5351832787"
+        ],
+        "outdoor_seating=yes": [
+            "node/5351832787",
+            "node/7475192460"
+        ],
+        "addr:housenumber=245": [
+            "node/5599264049"
+        ],
+        "addr:street=East 93rd Street": [
+            "node/5599264049"
+        ],
+        "opening_hours=Mo-Fr 05:00-21:00; Sa, Su 05:30-21:30": [
+            "node/5599264049"
+        ],
+        "phone=+1-646-455-8766": [
+            "node/5599264049"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1015899/93rd-second-245-east-93rd-st-new-york-ny-10128-us": [
+            "node/5599264049"
+        ],
+        "addr:housenumber=125": [
+            "node/5603563258"
+        ],
+        "addr:postcode=10009": [
+            "node/5603563258",
+            "node/7084620591"
+        ],
+        "addr:street=Saint Mark's Place": [
+            "node/5603563258"
+        ],
+        "opening_hours=Mo-Su 06:00-20:00": [
+            "node/5603563258",
+            "node/5978837386"
+        ],
+        "addr:housenumber=1542": [
+            "node/5625728960"
+        ],
+        "email=s20679@retail.starbucks.com": [
+            "node/5625728960"
+        ],
+        "opening_hours=Tu, Th, Fr 05:30-22:30; Mo, We, Sa, Su 05:30-21:30": [
+            "node/5625728960"
+        ],
+        "payment:unionpay=yes": [
+            "node/5625728960"
+        ],
+        "phone=+1 212-369-2949": [
+            "node/5625728960"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1006781/87th-third-1542-third-avenue-new-york-ny-10028-us": [
+            "node/5625728960"
+        ],
+        "addr:housenumber=871": [
+            "node/5754828788"
+        ],
+        "opening_hours=PH,Mo-Su 06:00-21:00": [
+            "node/5754828788"
+        ],
+        "addr:housenumber=66": [
+            "node/5978837386"
+        ],
+        "addr:postcode=11222": [
+            "node/5978837386",
+            "way/280137527"
+        ],
+        "addr:street=Nassau Avenue": [
+            "node/5978837386"
+        ],
+        "phone=+1-718-383-3750": [
+            "node/5978837386"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1021871/nassau-ave-lorimer-st-66-nassau-ave-brooklyn-ny-11222-us": [
+            "node/5978837386"
+        ],
+        "addr:housenumber=1185": [
+            "node/5985763486"
+        ],
+        "opening_hours=Mo-Fr 05:30-21:00; Sa-Su 07:00-21:00": [
+            "node/5985763486"
+        ],
+        "phone=2127307645": [
+            "node/5985763486"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/6945/nhl-store-47th-sixth-1185-avenue-of-the-americas-new-york-ny-100362601-": [
+            "node/5985763486"
+        ],
+        "opening_hours=Mo-Th 05:30-00:00; Fr-Sa 05:30-02:00; Su 05:30-01:00": [
+            "node/5985838985"
+        ],
+        "phone=2125417515": [
+            "node/5985838985"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1005509/47th-broadway-1585-broadway-new-york-ny-10036-us": [
+            "node/5985838985"
+        ],
+        "addr:housenumber=1102": [
+            "node/6068979466"
+        ],
+        "opening_hours=Mo-Fr 05:30-21:30; Sa 06:00-22:00; Su 06:30-21:30": [
+            "node/6068979466"
+        ],
+        "phone=+1 212-618-9118": [
+            "node/6068979466"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/16178/60th-first-1102-1st-ave-new-york-ny-100658702-us": [
+            "node/6068979466"
+        ],
+        "addr:housenumber=51": [
+            "node/6127095703"
+        ],
+        "addr:street=Newark Street": [
+            "node/6127095703"
+        ],
+        "level=1": [
+            "node/6127095703"
+        ],
+        "addr:housenumber=1378": [
+            "node/6270649485"
+        ],
+        "opening_hours=05:00-21:30": [
+            "node/6270649485"
+        ],
+        "phone=+1 212-534-7225": [
+            "node/6270649485"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/12003/96th-madison-1378-madison-avenue-new-york-ny-101280712-us": [
+            "node/6270649485"
+        ],
+        "opening_hours=Mo-Fr 06:00-20:30; Sa-Su 06:00-20:00": [
+            "node/6376760969"
+        ],
+        "phone=+1-212-725-9469": [
+            "node/6376760969"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/14526/34th-park-3-park-avenue-new-york-ny-100165902-us": [
+            "node/6376760969"
+        ],
+        "addr:housenumber=1095": [
+            "node/6403172421"
+        ],
+        "addr:housenumber=462": [
+            "node/6507019906"
+        ],
+        "addr:postcode=10018": [
+            "node/6507019906"
+        ],
+        "addr:housenumber=1040": [
+            "node/6566684054"
+        ],
+        "addr:housenumber=61": [
+            "node/6575702085"
+        ],
+        "brand=Starbucks Reserve": [
+            "node/6575702085",
+            "node/8105873283"
+        ],
+        "name=Starbucks Reserve": [
+            "node/6575702085",
+            "node/8105873283"
+        ],
+        "opening_hours=Mo-Fr 05:30-21:30, Sa-Su 06:00-22:00": [
+            "node/6612404178"
+        ],
+        "addr:housenumber=345": [
+            "node/6630517160"
+        ],
+        "opening_hours=Mo-Th 05:00-18:30; Fr 05:00-18:00": [
+            "node/6630517160"
+        ],
+        "phone=+1-646-486-0514": [
+            "node/6630517160"
+        ],
+        "addr:housenumber=111": [
+            "node/6636462195"
+        ],
+        "addr:street=Worth Street": [
+            "node/6636462195"
+        ],
+        "branch=Lafayette & Worth": [
+            "node/6636462195"
+        ],
+        "opening_hours=Mo-Th 06:30-18:00; Fr 06:30-18:30; Sa 07:00-18:30; Su 07:30-18:30": [
+            "node/6636462195"
+        ],
+        "phone=+1 212-964-8846": [
+            "node/6636462195"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/15295/lafayette-worth-111-worth-street-new-york-ny-100134008-us": [
+            "node/6636462195"
+        ],
+        "addr:housenumber=330": [
+            "node/6680695923"
+        ],
+        "addr:street=West 34th Street": [
+            "node/6680695923"
+        ],
+        "branch=34th St. btwn 8th & 9th Ave": [
+            "node/6680695923"
+        ],
+        "opening_hours=Mo-Fr 05:30-19:30; Sa 07:00-20:30; Su 07:00-20:00": [
+            "node/6680695923"
+        ],
+        "phone=+1 917-576-1959": [
+            "node/6680695923"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1025251/34th-st-btwn8th-9th-ave-330-west-34th-st-new-york-ny100012406-us": [
+            "node/6680695923"
+        ],
+        "addr:housenumber=25-14": [
+            "node/6744695372"
+        ],
+        "addr:postcode=10010": [
+            "node/6752564944",
+            "node/6955034549",
+            "node/7678152117"
+        ],
+        "addr:housenumber=822": [
+            "node/6789471481"
+        ],
+        "branch=63rd & Lexington": [
+            "node/6789471481"
+        ],
+        "opening_hours=Mo-Sa 05:30-21:00; Su 06:00-20:00": [
+            "node/6789471481"
+        ],
+        "phone=+1 212-572-0984": [
+            "node/6789471481"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/116566/63rd-lexington-822-ave-new-york-ny-100657304-us": [
+            "node/6789471481"
+        ],
+        "addr:housenumber=605": [
+            "node/6852143017"
+        ],
+        "addr:housenumber=14": [
+            "node/6955034549"
+        ],
+        "addr:street=West 23rd Street": [
+            "node/6955034549"
+        ],
+        "opening_hours=Mo-Th 06:00-21:00; Fr 06:00-20:30; Sa 06:30-20:00; Su 06:30-19:30": [
+            "node/6955034549"
+        ],
+        "phone=+1-212-367-2050": [
+            "node/6955034549"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/6756/23rd-btwn-5th-6th-14-w-23rd-st-new-york-ny-100105203-us": [
+            "node/6955034549"
+        ],
+        "addr:housenumber=286": [
+            "node/7084620591"
+        ],
+        "branch=17th & 1st": [
+            "node/7084620591"
+        ],
+        "indoor_seating=yes": [
+            "node/7084620591"
+        ],
+        "phone=+1 212-353-1214": [
+            "node/7084620591"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/15099/17th-1st-286-first-avenue-new-york-ny-100091850-us": [
+            "node/7084620591"
+        ],
+        "addr:housenumber=28": [
+            "node/7093921924"
+        ],
+        "addr:street=West 48th Street": [
+            "node/7093921924"
+        ],
+        "addr:housenumber=475": [
+            "node/7475192460"
+        ],
+        "addr:street=West 57th Street": [
+            "node/7475192460"
+        ],
+        "opening_hours=Mo-Su 07:00-18:00": [
+            "node/7475192460",
+            "node/8622598771"
+        ],
+        "phone=(212) 247-5489": [
+            "node/7475192460"
+        ],
+        "addr:housenumber=21": [
+            "node/7591060173"
+        ],
+        "addr:street=West End Avenue": [
+            "node/7591060173"
+        ],
+        "phone=+1-929-243-0630": [
+            "node/7591060173"
+        ],
+        "toilets=customers": [
+            "node/7591060173"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1019664/61st-west-end-ave-21-west-end-ave-new-york-ny-100237839-us": [
+            "node/7591060173"
+        ],
+        "addr:housenumber=304": [
+            "node/7678152117"
+        ],
+        "addr:street=Park Avenue South": [
+            "node/7678152117"
+        ],
+        "phone=+1-212-475-9025": [
+            "node/7678152117"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/17645/23rd-park-304-park-avenue-south-new-york-ny-100104301-us": [
+            "node/7678152117"
+        ],
+        "addr:city=Brooklyn": [
+            "node/8105873283",
+            "way/280137527"
+        ],
+        "addr:housenumber=154": [
+            "node/8105873283"
+        ],
+        "addr:postcode=11211": [
+            "node/8105873283"
+        ],
+        "addr:street=North 7th Street": [
+            "node/8105873283"
+        ],
+        "opening_hours=Mo-Su 07:00-19:00": [
+            "node/8105873283"
+        ],
+        "phone=+17183840152": [
+            "node/8105873283"
+        ],
+        "opening_hours=Mo-Fr 05:00-19:30; Sa,Su 05:30-19:00": [
+            "node/8238256286"
+        ],
+        "addr:housenumber=157": [
+            "node/8622598771"
+        ],
+        "addr:street=Lafayette": [
+            "node/8622598771"
+        ],
+        "branch=157 Lafayette": [
+            "node/8622598771"
+        ],
+        "phone=+1 646-838-4269": [
+            "node/8622598771"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/1021634/157-lafayette-157-lafayette-street-new-york-ny-10013-us": [
+            "node/8622598771"
+        ],
+        "addr:housenumber=494": [
+            "node/8669140491"
+        ],
+        "capacity=0": [
+            "node/8669140491"
+        ],
+        "check_date=2022-09-05": [
+            "node/8669140491"
+        ],
+        "highchair=no": [
+            "node/8669140491"
+        ],
+        "opening_hours=Mo-Fr 05:30-19:00": [
+            "node/8669140491"
+        ],
+        "phone=+1 212-947-3860": [
+            "node/8669140491"
+        ],
+        "website=https://www.starbucks.com/store-locator/store/16813/35th-8th-494-eighth-ave-new-york-ny-100012519-us": [
+            "node/8669140491"
+        ],
+        "addr:housenumber=291": [
+            "node/8883769317"
+        ],
+        "addr:postcode=10007": [
+            "node/8883769317"
+        ],
+        "addr:housenumber=450": [
+            "node/8890918163"
+        ],
+        "addr:street=West 33rd Street": [
+            "node/8890918163"
+        ],
+        "opening_hours=Mo-Fr 05:30-18:00": [
+            "node/8890918163"
+        ],
+        "payment:telephone_cards=no": [
+            "node/8890918163"
+        ],
+        "addr:housenumber=31-01": [
+            "node/8942090280"
+        ],
+        "addr:postcode=11106": [
+            "node/8942090280"
+        ],
+        "opening_hours=Mo-Fr 05:30-20:00; Sa-Su 06:00-19:30": [
+            "node/9806919511"
+        ],
+        "building=yes": [
+            "way/266879142",
+            "way/280137527"
+        ],
+        "height=63.7": [
+            "way/266879142"
+        ],
+        "nycdoitt:bin=1042464": [
+            "way/266879142"
+        ],
+        "addr:housenumber=910": [
+            "way/280137527"
+        ],
+        "addr:street=Manhattan Avenue": [
+            "way/280137527"
+        ],
+        "height=8.4": [
+            "way/280137527"
+        ],
+        "nycdoitt:bin=3400032": [
+            "way/280137527"
+        ],
+        "opening_hours=Mo-Th 06:00-22:30; Fr 06:00-23:00; Sa 06:30-23:00; Su 07:00-22:30": [
+            "way/280137527"
+        ],
+        "indoor=room": [
+            "way/632686089"
+        ]
+    }
+}
